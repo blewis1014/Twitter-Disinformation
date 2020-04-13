@@ -14,11 +14,13 @@ Data Sources:
 
 **Q1.** *(x points)* The D2 dataset contains some shortened URIs and proxies. Process each URI and follow redirects until it resolves or there is a 40x HTTP status. Record the final URI, HTTP status, and tweet frequency information (from the original data file) and save in a separate data file. 
 
-**Q2.** *(x points)* For each of the final URIs from Q1, check its archival status using MemGator (see HW2). For each, record the total number of mementos and the number of mementos from each year from 2016-2020.
+**Q2.** *(x points)* For each of the final URIs from Q1, check its archival status using MemGator (see HW2). Record the date of the first memento, total number of mementos, and the number of mementos in each year from 2016-2020.  Add this information to the data file from Q1.
 
 **Q3.** *(x points)* For each of the final URIs from Q1, extract the domain from the URI. Create a list of unique domains and include the number of times that domain appeared in the dataset and the sum of tweets the domain appeared in. Compare the domains present in D2 (from your processed dataset in Q3) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?
 
 **Q4.** *(x points)* For each domain in D1 and D3, check its archival status using MemGator (see HW2). For each, record the total number of mementos and the number of mementos from each year from 2016-2020.
+
+*Need to talk about graphs to generate.  Histogram of domains that have mementos in 2016-2020, URI vs. date of first memento*
 
 In your report, discuss any interesting findings you discover and suggest questions or potential for future investigation.
 
