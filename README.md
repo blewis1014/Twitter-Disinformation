@@ -9,8 +9,13 @@
 
 Data Sources:
 * D1 - 117 domains shared in tweets in the ICWSM 2017 paper, related to mass shootings
+  * available at https://docs.google.com/spreadsheets/d/1lk3pFSc5wo3OfJc8ekONqO3MJCCigqe8SBSYwLYlHLo/edit#gid=0
 * D2 - 1679 URIs shared in tweets in the ICWSM 2018 paper, related to work of White Helmets in Syria
-* D3 - websites publishing false Coronavirus information, gathered by https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/
+  * available at  (*do not share this dataset outside of this class, was sent to ODU for research purposes*)
+* D3 - websites publishing false Coronavirus information
+  * available at https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/
+  * this will need to be turned into a text file listing the domains
+  * note that the links lead to information about the domains rather than the domains themselves, so if scraping, only grab the anchor text, not the `href`
 
 **Q1.** *(x points)* The D2 dataset contains some shortened URIs and proxies. Process each URI and follow redirects until it resolves or there is a 40x HTTP status. Record the final URI, HTTP status, and tweet frequency information (from the original data file) and save in a separate data file. 
 
@@ -19,6 +24,8 @@ Data Sources:
 **Q3.** *(x points)* For each of the final URIs from Q1, extract the domain from the URI. Create a list of unique domains and include the number of times that domain appeared in the dataset and the sum of tweets the domain appeared in. Compare the domains present in D2 (from your processed dataset in Q3) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?
 
 **Q4.** *(x points)* For each domain in D1 and D3, check its archival status using MemGator (see HW2). For each, record the total number of mementos and the number of mementos from each year from 2016-2020.
+
+Note that most of the domains in D3 should have at least 1 memento because the Internet Archive has created an Archive-It collection of these sites (see https://archive-it.org/collections/13559).
 
 *Need to talk about graphs to generate.  Histogram of domains that have mementos in 2016-2020, URI vs. date of first memento*
 
