@@ -23,7 +23,9 @@ Save a data file that contains the original URI, tweet frequency (from the origi
 
 Create a list of unique domains and include the number of times that domain appeared in the dataset and the sum of tweets the domain appeared in. 
 
-**Q3.** *(3 points)* Compare the domains present in D2 (from your processed dataset in Q2) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?  *Receiving all the points for this question requires thoughtful discussion of the results.*
+**Q3.** *(3 points)* Compare the domains present in D2 (from your processed dataset in Q2) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?  
+
+*Receiving all the points for this question requires thoughtful discussion of the results.*
 
 **Q4.** *(2 points)* For each domain in D1, D2 (using results from Q2), and D3, check the archival status of the domain's main webpage using MemGator (see HW2). You don't need to figure out the actual main webpage URI, just putting the domain in the request should work, for example
 
