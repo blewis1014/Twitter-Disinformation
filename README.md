@@ -21,17 +21,20 @@ Save a data file that contains the original URI, tweet frequency (from the origi
 
 **Q2.** *(1 point)*  For each of the final URIs from Q1, extract the domain from the URI. For example, given the URI `https://en.wikipedia.org/wiki/Domain_name`, the domain is `wikipedia.org`, and for the URI `https://www.theregister.co.uk/2020/04/16/cloudflare_cobol/`, the domain is `theregister.co.uk`.
 
-Create a list of unique domains and include the number of times that domain appeared in the dataset and the sum of tweets the domain appeared in. 
+Save a data file that contains each unique domain, the number of times that domain appeared in the dataset, and the total number of tweets the domain appeared in. 
 
 **Q3.** *(3 points)* Compare the domains present in D2 (from your processed dataset in Q2) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?  
 
 *Receiving all the points for this question requires thoughtful discussion of the results.*
 
-**Q4.** *(2 points)* For each domain in D1, D2 (using results from Q2), and D3, check the archival status of the domain's main webpage using MemGator (see HW2). You don't need to figure out the actual main webpage URI, just putting the domain in the request should work, for example
+**Q4.** *(2 points)* For each domain in D1, D2 (using results from Q2), and D3, check the archival status of the domain's main webpage using MemGator (see HW2). If a domain appears in multiple datasets, only check the status once.
 
+You don't need to figure out the actual main webpage URI, just putting the domain in the request should work, for example
 `% curl http://memgator.cs.odu.edu/timemap/link/theregister.co.uk/`
 
-For each, record the datetime of the first memento, datetime of the last memento, and total number of mementos.
+As with HW2, save the TimeMap for each domain in your GitHub repo.
+
+Save a data file that contains each domain name, the dataset(s) it appears in (D1/D2/D3), datetime of its first memento, datetime of its last memento, and its total number of mementos. 
 
 Note that most of the main webpages for the domains in D3 should have at least 1 memento because the Internet Archive has created an Archive-It collection of these (see https://archive-it.org/collections/13559).
 
