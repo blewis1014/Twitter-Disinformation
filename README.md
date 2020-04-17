@@ -39,7 +39,7 @@ Note that most of the main webpages for the domains in D3 should have at least 1
 
 2. [Histogram](https://en.wikipedia.org/wiki/Histogram) (see also [Histograms at mathisfun](https://www.mathsisfun.com/data/histograms.html)) of the total number of mementos for each domain for all the datasets. The x-axis should be total mementos (binned appropriately) and y-axis should be number of domains that fall into that bin.
 
-In addition, discuss any interesting findings you discover and suggest questions or potential for future investigation.
+*Receiving all the points for this question requires thoughtful discussion of the results, including suggested questions for future investigation.* 
 
 
 ## Submission
