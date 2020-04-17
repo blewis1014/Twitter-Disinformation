@@ -12,7 +12,7 @@ Data Sources:
   * available at https://docs.google.com/spreadsheets/d/1lk3pFSc5wo3OfJc8ekONqO3MJCCigqe8SBSYwLYlHLo/
 * D2 - 1679 URIs shared in tweets in the ICWSM 2018 paper, related to work of White Helmets in Syria
   * available at  (*do not share this dataset outside of this class, was sent to ODU for research purposes*)
-* D3 - websites publishing false Coronavirus information, gathered at https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/
+* D3 - 178 domains publishing false Coronavirus information, gathered at https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/
   * available as a spreadsheet at https://docs.google.com/spreadsheets/d/1VaSxEskGWPeGo5zHEjahVAYu2gKSzSLskLA3etJAuNU/
 
 *Google spreadsheets can be downloaded as CSV or TSV files using the File...Download... menu option*
