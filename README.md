@@ -11,7 +11,8 @@ Data Sources:
 * D1 - 117 domains shared in tweets in the ICWSM 2017 paper, related to mass shootings
   * available at https://docs.google.com/spreadsheets/d/1lk3pFSc5wo3OfJc8ekONqO3MJCCigqe8SBSYwLYlHLo/
 * D2 - 1679 URIs shared in tweets in the ICWSM 2018 paper, related to work of White Helmets in Syria
-  * available at  (*do not share this dataset outside of this class, was sent to ODU for research purposes*)
+  * available at  
+  * *this dataset was sent to ODU for research purposes, so do not share outside of this class*
 * D3 - 178 domains publishing false Coronavirus information, gathered at https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/
   * available as a spreadsheet at https://docs.google.com/spreadsheets/d/1VaSxEskGWPeGo5zHEjahVAYu2gKSzSLskLA3etJAuNU/
 
