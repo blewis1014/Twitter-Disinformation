@@ -17,27 +17,27 @@ Write a report that answers and explains your answers to the following questions
 
 In your report, discuss any interesting findings you discover and suggest questions or potential for future investigation.
 
-**Q1.** *(x points)* The D2 dataset contains some shortened URIs and proxies. Process each URI and follow redirects until it resolves or there is a 40x HTTP status. Record the final URI and current HTTP status.
+**Q1.** *(x points)* The D2 dataset contains some shortened URIs and proxies. Process each URI and follow redirects until it resolves as a 200 or there is a 40x HTTP status. Save a data file that contains the original URI, tweet frequency (from the original data file), final URI (many of these will be the same as the original URI), and current HTTP status.
 
-For each of the final URIs, check its archival status using MemGator (see HW2). Record the datetime of the first memento, datetime of the last memento, total number of mementos, and the number of mementos in each year from 2016-2020.  
+**Q2.** *(x points)*  For each of the final URIs from Q1, extract the domain from the URI. For example, given the URI `https://en.wikipedia.org/wiki/Domain_name`, the domain is `wikipedia.org`, and for the URI `https://www.theregister.co.uk/2020/04/16/cloudflare_cobol/`, the domain is `theregister.co.uk`.
 
-Save a data file that contains the original URI, tweet frequency (from the original data file), final URI (many of these will be the same as the original URI), current HTTP status, date of first memento, total number of mementos, and number of mementos in each year from 2016-2020.
-
-**Q2.** *(x points)*  For each of the final URIs from Q1, extract the domain from the URI. Create a list of unique domains and include the number of times that domain appeared in the dataset and the sum of tweets the domain appeared in. 
+Create a list of unique domains and include the number of times that domain appeared in the dataset and the sum of tweets the domain appeared in. 
 
 **Q3.** *(x points)* Compare the domains present in D2 (from your processed dataset in Q2) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?  *Receiving all the points for this question requires thoughtful discussion of the results.*
 
-**Q4.** *(x points)* For each domain in D1 and D3, check its archival status using MemGator (see HW2). For each, record the datetime of the first memento, datetime of the last memento, total number of mementos and the number of mementos from each year from 2016-2020.
+**Q4.** *(x points)* For each domain in D1, D2 (using results from Q2), and D3, check the archival status of the domain's main webpage using MemGator (see HW2). You don't need to figure out the actual main webpage URI, just putting the domain in the request should work, for example
 
-Note that most of the domains in D3 should have at least 1 memento because the Internet Archive has created an Archive-It collection of these sites (see https://archive-it.org/collections/13559).
+`% curl http://memgator.cs.odu.edu/timemap/link/theregister.co.uk/`
 
-**Q5.** *(x points)* Create the following charts based on the collected data.
+For each, record the datetime of the first memento, datetime of the last memento, and total number of mementos.
 
-1. Scatterplot of URI vs. datetime of the first memento and last memento (x-axis), sorted by the datetime of the first memento.  Color dots based on the dataset it comes from. This should look similar to this [chart of URIs vs. memento datetimes](https://3.bp.blogspot.com/-8vNC-7UraiQ/U43lwAC0pSI/AAAAAAAAAE4/1IyHbXH9CKQ/s1600/mementosScatterDmoz.png), but with only the first and last dot on each row plotted (since you're only plotting the datetimes of the first and last mementos).
+Note that most of the main webpages for the domains in D3 should have at least 1 memento because the Internet Archive has created an Archive-It collection of these (see https://archive-it.org/collections/13559).
 
-2. Histogram of mementos per year for 2016-2020 for D1. The year should be on the x-axis and the number of domains with any mementos that year should be on the y-axis.
+**Q5.** *(x points)* Create the following charts based on the collected data from Q4.
 
-*Need to talk about graphs to generate.  Histogram of domains that have mementos in 2016-2020, URI vs. date of first memento*
+1. Scatterplot of domain vs. datetime of the first memento and last memento (x-axis), sorted by the datetime of the first memento.  Color dots based on the dataset it comes from. This should look similar to this [chart of URIs vs. memento datetimes](https://3.bp.blogspot.com/-8vNC-7UraiQ/U43lwAC0pSI/AAAAAAAAAE4/1IyHbXH9CKQ/s1600/mementosScatterDmoz.png), but with only the first and last dot on each row plotted (since you're only plotting the datetimes of the first and last mementos).
+
+2. [Histogram](https://en.wikipedia.org/wiki/Histogram) (see also [Histograms at mathisfun](https://www.mathsisfun.com/data/histograms.html)) of the total number of mementos for each domain for all the datasets. The x-axis should be total mementos (binned appropriately) and y-axis should be number of domains that fall into that bin.
 
 ## Submission
 
