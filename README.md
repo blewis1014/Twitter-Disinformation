@@ -12,7 +12,7 @@ Data Sources:
   * available at https://docs.google.com/spreadsheets/d/1lk3pFSc5wo3OfJc8ekONqO3MJCCigqe8SBSYwLYlHLo/
 * D2 - 1679 URIs shared in tweets in the ICWSM 2018 paper, related to work of White Helmets in Syria
   * available at  
-  * *this dataset was sent to ODU for research purposes, so do not share outside of this class*
+  * *this dataset was sent to ODU for research purposes, so do not share*
 * D3 - 178 domains publishing false Coronavirus information, gathered at https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/
   * available as a spreadsheet at https://docs.google.com/spreadsheets/d/1VaSxEskGWPeGo5zHEjahVAYu2gKSzSLskLA3etJAuNU/
 
@@ -22,7 +22,7 @@ Data Sources:
 
 **Q2.** *(x points)* For each of the final URIs from Q1, check its archival status using MemGator (see HW2). Record the date of the first memento, total number of mementos, and the number of mementos in each year from 2016-2020.  Add this information to the data file from Q1.
 
-**Q3.** *(x points)* For each of the final URIs from Q1, extract the domain from the URI. Create a list of unique domains and include the number of times that domain appeared in the dataset and the sum of tweets the domain appeared in. Compare the domains present in D2 (from your processed dataset in Q3) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?
+**Q3.** *(x points)* For each of the final URIs from Q1, extract the domain from the URI. Create a list of unique domains and include the number of times that domain appeared in the dataset and the sum of tweets the domain appeared in. Compare the domains present in D2 (from your processed dataset in Q1) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?
 
 **Q4.** *(x points)* For each domain in D1 and D3, check its archival status using MemGator (see HW2). For each, record the total number of mementos and the number of mementos from each year from 2016-2020.
 
