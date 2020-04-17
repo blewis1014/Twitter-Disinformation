@@ -44,7 +44,7 @@ Note that most of the main webpages for the domains in D3 should have at least 1
 
 1. Scatterplot of domain vs. datetime of the first memento and last memento (x-axis), sorted by the datetime of the first memento.  Color dots based on the dataset (or datasets) it comes from. This should look similar to this [chart of URIs vs. memento datetimes](https://3.bp.blogspot.com/-8vNC-7UraiQ/U43lwAC0pSI/AAAAAAAAAE4/1IyHbXH9CKQ/s1600/mementosScatterDmoz.png), but with only the first and last dot on each row plotted (since you're only plotting the datetimes of the first and last mementos).
 
-2. [Histogram](https://en.wikipedia.org/wiki/Histogram) (see also [Histograms at mathisfun](https://www.mathsisfun.com/data/histograms.html)) of the total number of mementos for each domain for all the datasets. The x-axis should be total mementos (binned appropriately) and y-axis should be number of domains that fall into that bin.
+2. [Histogram](https://en.wikipedia.org/wiki/Histogram) (see also [Histograms at mathisfun](https://www.mathsisfun.com/data/histograms.html)) of the total number of mementos per domain for all the datasets. The x-axis should be total mementos (binned appropriately) and y-axis should be number of domains that fall into that bin.
 
 *Receiving all the points for this question requires thoughtful discussion of the results, including suggested questions for future investigation.* 
 
