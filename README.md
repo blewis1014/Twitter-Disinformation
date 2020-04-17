@@ -21,6 +21,8 @@ Save a data file that contains the original URI, tweet frequency (from the origi
 
 **Q2.** *(1 point)*  For each of the final URIs from Q1, extract the domain from the URI. For example, given the URI `https://en.wikipedia.org/wiki/Domain_name`, the domain is `wikipedia.org`, and for the URI `https://www.theregister.co.uk/2020/04/16/cloudflare_cobol/`, the domain is `theregister.co.uk`.
 
+How many unique domains are there?
+
 Save a data file that contains each unique domain, the number of times that domain appeared in the dataset, and the total number of tweets the domain appeared in. 
 
 **Q3.** *(3 points)* Compare the domains present in D2 (from your processed dataset in Q2) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?  
