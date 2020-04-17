@@ -19,7 +19,7 @@ In your report, discuss any interesting findings you discover and suggest questi
 
 **Q1.** *(x points)* The D2 dataset contains some shortened URIs and proxies. Process each URI and follow redirects until it resolves or there is a 40x HTTP status. Record the final URI and current HTTP status.
 
-For each of the final URIs, check its archival status using MemGator (see HW2). Record the date of the first memento, total number of mementos, and the number of mementos in each year from 2016-2020.  
+For each of the final URIs, check its archival status using MemGator (see HW2). Record the datetime of the first memento, datetime of the last memento, total number of mementos, and the number of mementos in each year from 2016-2020.  
 
 Save a data file that contains the original URI, tweet frequency (from the original data file), final URI (many of these will be the same as the original URI), current HTTP status, date of first memento, total number of mementos, and number of mementos in each year from 2016-2020.
 
@@ -27,7 +27,7 @@ Save a data file that contains the original URI, tweet frequency (from the origi
 
 **Q3.** *(x points)* Compare the domains present in D2 (from your processed dataset in Q2) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?  *Receiving all the points for this question requires thoughtful discussion of the results.*
 
-**Q4.** *(x points)* For each domain in D1 and D3, check its archival status using MemGator (see HW2). For each, record the total number of mementos and the number of mementos from each year from 2016-2020.
+**Q4.** *(x points)* For each domain in D1 and D3, check its archival status using MemGator (see HW2). For each, record the datetime of the first memento, datetime of the last memento, total number of mementos and the number of mementos from each year from 2016-2020.
 
 Note that most of the domains in D3 should have at least 1 memento because the Internet Archive has created an Archive-It collection of these sites (see https://archive-it.org/collections/13559).
 
