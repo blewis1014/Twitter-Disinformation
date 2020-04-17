@@ -9,13 +9,13 @@
 
 Data Sources:
 * D1 - 117 domains shared in tweets in the ICWSM 2017 paper, related to mass shootings
-  * available at https://docs.google.com/spreadsheets/d/1lk3pFSc5wo3OfJc8ekONqO3MJCCigqe8SBSYwLYlHLo/edit#gid=0
+  * available at https://docs.google.com/spreadsheets/d/1lk3pFSc5wo3OfJc8ekONqO3MJCCigqe8SBSYwLYlHLo/
 * D2 - 1679 URIs shared in tweets in the ICWSM 2018 paper, related to work of White Helmets in Syria
   * available at  (*do not share this dataset outside of this class, was sent to ODU for research purposes*)
-* D3 - websites publishing false Coronavirus information
-  * available at https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/
-  * this will need to be turned into a csv or text file listing the domains -- note that the links lead to information about the domains rather than the domains themselves, so if scraping, only grab the anchor text, not the `href`
-    * *1 point extra extra credit* - first person to create the file, upload to a public GitHub repo, and post a link in Piazza with the tag "hw10" - it doesn't matter if you write a program to scrape the webpage or just copy/paste, but the resulting file should be easily usable by everyone
+* D3 - websites publishing false Coronavirus information, gathered at https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/
+  * available as a spreadsheet at https://docs.google.com/spreadsheets/d/1VaSxEskGWPeGo5zHEjahVAYu2gKSzSLskLA3etJAuNU/
+
+*Google spreadsheets can be downloaded as CSV or TSV files using the File...Download... menu option*
 
 **Q1.** *(x points)* The D2 dataset contains some shortened URIs and proxies. Process each URI and follow redirects until it resolves or there is a 40x HTTP status. Record the final URI, HTTP status, and tweet frequency information (from the original data file) and save in a separate data file. 
 
