@@ -14,8 +14,8 @@ Data Sources:
   * available at  (*do not share this dataset outside of this class, was sent to ODU for research purposes*)
 * D3 - websites publishing false Coronavirus information
   * available at https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/
-  * this will need to be turned into a text file listing the domains
-  * note that the links lead to information about the domains rather than the domains themselves, so if scraping, only grab the anchor text, not the `href`
+  * this will need to be turned into a csv or text file listing the domains -- note that the links lead to information about the domains rather than the domains themselves, so if scraping, only grab the anchor text, not the `href`
+    * *1 point extra extra credit* - first person to create the file, upload to a public GitHub repo, and post a link in Piazza with the tag "hw10" - it doesn't matter if you write a program to scrape the webpage or just copy/paste, but the resulting file should be easily usable by everyone
 
 **Q1.** *(x points)* The D2 dataset contains some shortened URIs and proxies. Process each URI and follow redirects until it resolves or there is a 40x HTTP status. Record the final URI, HTTP status, and tweet frequency information (from the original data file) and save in a separate data file. 
 
