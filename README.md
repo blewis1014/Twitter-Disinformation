@@ -8,8 +8,8 @@
 ### Disinformation
 
 Data Sources:
-* D1 - domains shared in tweets in the ICWSM 2017 paper, related to mass shootings
-* D2 - URIs shared in tweets in the ICWSM 2018 paper, related to work of White Helmets in Syria
+* D1 - 117 domains shared in tweets in the ICWSM 2017 paper, related to mass shootings
+* D2 - 1679 URIs shared in tweets in the ICWSM 2018 paper, related to work of White Helmets in Syria
 * D3 - websites publishing false Coronavirus information, gathered by https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/
 
 **Q1.** *(x points)* The D2 dataset contains some shortened URIs and proxies. Process each URI and follow redirects until it resolves or there is a 40x HTTP status. Record the final URI, HTTP status, and tweet frequency information (from the original data file) and save in a separate data file. 
