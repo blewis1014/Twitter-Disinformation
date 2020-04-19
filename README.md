@@ -9,7 +9,7 @@
   * *this dataset was sent to ODU for research purposes, so do not share*
 * [D3](https://docs.google.com/spreadsheets/d/1VaSxEskGWPeGo5zHEjahVAYu2gKSzSLskLA3etJAuNU/) - 178 domains publishing false Coronavirus information, gathered by https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/
 
-*Google spreadsheets can be downloaded as CSV or TSV files using the File...Download... menu option*
+*Google spreadsheets can be downloaded as CSV or TSV files using the File...Download... menu option* 
 
 ## Assignment 
 
