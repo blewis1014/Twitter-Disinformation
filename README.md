@@ -1,7 +1,7 @@
-# Homework 10 - Analyzing Disinformation Domains
-**Due:** Tuesday, May 5, 2020 by 3:30pm
+# Homework 6 - Analyzing Disinformation Domains
+**Due:** Sunday, November 15, 2020 by 11:59pm
 
-*10 points - all extra credit*
+*10 points*
 
 ## Data Sources:
 * [D1](https://docs.google.com/spreadsheets/d/1lk3pFSc5wo3OfJc8ekONqO3MJCCigqe8SBSYwLYlHLo/) - 117 domains shared in tweets in the ICWSM 2017 paper, related to mass shootings
@@ -51,4 +51,11 @@ Note that most of the main webpages for the domains in D3 should have at least 1
 
 ## Submission
 
-Make sure that you have committed and pushed your local repo to GitHub before the deadline.  Include "@weiglemc Ready to grade" in your commit comment.
+Make sure that you have committed and pushed your local repo to GitHub. Your repo should contain any code you developed to answer the questions. Include "Ready to grade @weiglemc" in your final commit message.
+
+Submit the URL of your report in Blackboard:
+* Click on HW6 under Week 10 in Blackboard
+* Under "Assignment Submission", click the "Write Submission" button.
+* Copy/paste the URL of your report into the edit box
+  * should be something like https<nolink>://github.com/cs432-websci-fall20/hw6-disinfo-*username*/blob/master/HW6-report.{pdf,md}
+* Make sure to "Submit" your assignment.
