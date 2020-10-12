@@ -1,6 +1,8 @@
 # Homework 6 - Analyzing Disinformation Domains
 **Due:** Sunday, November 15, 2020 by 11:59pm
 
+*Make MemGator usage EC.  Did tell a student that we wouldn't be using it again.  Come up with some other analysis to do, include more domains or another dataset?*
+
 *10 points*
 
 ## Data Sources:
