@@ -3,6 +3,8 @@
 
 *Make MemGator usage EC.  Did tell a student that we wouldn't be using it again.  Come up with some other analysis to do, include more domains or another dataset?*
 
+*Or have them create a chart similar to hers with a collection of tweets?*
+
 *10 points*
 
 ## Data Sources:
