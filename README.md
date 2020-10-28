@@ -5,7 +5,7 @@
 * [D1](https://docs.google.com/spreadsheets/d/1lk3pFSc5wo3OfJc8ekONqO3MJCCigqe8SBSYwLYlHLo/) - 117 domains shared in tweets in the ICWSM 2017 paper, related to mass shootings
 * [D2](expanded%20URLs.csv) - 1679 URIs shared in tweets in the ICWSM 2018 paper, related to work of White Helmets in Syria
   * *this dataset was sent to ODU for research purposes, so do not share*
-* [D3](https://docs.google.com/spreadsheets/d/1VaSxEskGWPeGo5zHEjahVAYu2gKSzSLskLA3etJAuNU/) - 178 domains publishing false Coronavirus information, gathered by https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/
+* [D3](https://docs.google.com/spreadsheets/d/1bjuMnAnDsiVWrIuGIIpsXKBqkYNrOehmx0_ZWGVI6d0/) - 347 domains publishing false Coronavirus information, gathered by https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/ as of October 28, 2020
 
 *Google spreadsheets can be downloaded as CSV or TSV files using the File...Download... menu option* 
 
