@@ -1,12 +1,6 @@
 # Homework 6 - Analyzing Disinformation Domains
 **Due:** Sunday, November 15, 2020 by 11:59pm
 
-*Make MemGator usage EC.  Did tell a student that we wouldn't be using it again.  Come up with some other analysis to do, include more domains or another dataset?*
-
-*Or have them create a chart similar to hers with a collection of tweets?*
-
-*10 points*
-
 ## Data Sources:
 * [D1](https://docs.google.com/spreadsheets/d/1lk3pFSc5wo3OfJc8ekONqO3MJCCigqe8SBSYwLYlHLo/) - 117 domains shared in tweets in the ICWSM 2017 paper, related to mass shootings
 * [D2](expanded%20URLs.csv) - 1679 URIs shared in tweets in the ICWSM 2018 paper, related to work of White Helmets in Syria
@@ -17,48 +11,47 @@
 
 ## Assignment 
 
-Write a report that answers and explains your answers to the following questions. Support your answers by including all relevant discussion, assumptions, examples, etc. You must describe how you answered the questions. Your GitHub repo should include all scripts, code, output files, images needed to complete the assignment. If you use a Google Colab notebook, you must save a copy in GitHub in your HW10 repo.
+Write a report that answers the following questions. Support your answers by including all relevant discussion, assumptions, examples, etc. You must describe how you answered the questions and any interesting insights from your work. Your GitHub repo should include all scripts, code, output files, images needed to complete the assignment. If you use a Google Colab notebook, you must save a copy in GitHub in your HW6 repo.
 
-**Q1.** *(1 point)* The D2 dataset contains some shortened URIs and proxies. Process each URI and follow redirects until it resolves as a 200 or there is a 40x HTTP status. 
+### Q1
+
+*(2 points)* The D2 dataset contains some shortened URIs and proxies. Process each URI and follow redirects until it resolves as a 200 or there is a 40x HTTP status. 
 
 Save a data file that contains the original URI, tweet frequency (from the original data file), final URI (many of these will be the same as the original URI), and current HTTP status.
 
-**Q2.** *(1 point)*  For each of the final URIs from Q1, extract the domain from the URI. For example, given the URI `https://en.wikipedia.org/wiki/Domain_name`, the domain is `wikipedia.org`, and for the URI `https://www.theregister.co.uk/2020/04/16/cloudflare_cobol/`, the domain is `theregister.co.uk`.
+### Q2
+
+*(2 points)*  For each of the final URIs from Q1, extract the domain from the URI. For example, given the URI `https://en.wikipedia.org/wiki/Domain_name`, the domain is `wikipedia.org`, and for the URI `https://www.theregister.co.uk/2020/04/16/cloudflare_cobol/`, the domain is `theregister.co.uk`.
 
 How many unique domains are there?
 
 Save a data file that contains each unique domain, the number of times that domain appeared in the dataset, and the total number of tweets the domain appeared in. 
 
-**Q3.** *(3 points)* Compare the domains present in D2 (from your processed dataset in Q2) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?  
+### Q3
 
-*Receiving all the points for this question requires thoughtful discussion of the results.*
+*(3 points)* Compare the domains present in your processed D2 dataset (from Q2) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?  
 
-**Q4.** *(2 points)* For each domain in D1, D2 (using results from Q2), and D3, check the archival status of the domain's main webpage using MemGator (see HW2). If a domain appears in multiple datasets, only check the status once.
+### Q4
 
-You don't need to figure out the actual main webpage URI, just putting the domain in the request should work, for example
-`% curl http://memgator.cs.odu.edu/timemap/link/theregister.co.uk/`
+Search for tweets sharing links from any live domain that shows up in 2 of the 3 datasets.  `q="url:stackoverflow.com"`
 
-As with HW2, save the TimeMap for each domain in your GitHub repo.
+### Q5
 
-Save a data file that contains each domain name, the dataset(s) it appears in (D1/D2/D3), datetime of its first memento, datetime of its last memento, and its total number of mementos. 
+Create a network graph, similar to Dr. Starbird's, where a domain shared in a tweet is a node and a link exists between two nodes if a single Twitter account shared both domains.  
 
-Note that most of the main webpages for the domains in D3 should have at least 1 memento because the Internet Archive has created an Archive-It collection of these (see https://archive-it.org/collections/13559).
+For example, if @weiglemc shared a tweet with a link to www.odu.edu and another tweet with a link to www.lsu.edu, then there should be a link between node odu.edu and node lsu.edu.
 
-**Q5.** *(3 points)* Create the following charts based on the collected data from Q4.
+Extra credit: Map the size of the node to the number of tweets the domain was shared in.
 
-1. Scatterplot of domain vs. datetime of the first memento and last memento (x-axis), sorted by the datetime of the first memento.  Color dots based on the dataset (or datasets) it comes from. This should look similar to this [chart of URIs vs. memento datetimes](https://3.bp.blogspot.com/-8vNC-7UraiQ/U43lwAC0pSI/AAAAAAAAAE4/1IyHbXH9CKQ/s1600/mementosScatterDmoz.png), but with only the first and last dot on each row plotted (since you're only plotting the datetimes of the first and last mementos).
 
-2. [Histogram](https://en.wikipedia.org/wiki/Histogram) (see also [Histograms at mathisfun](https://www.mathsisfun.com/data/histograms.html)) of the total number of mementos per domain for all the datasets. The x-axis should be total mementos (binned appropriately) and y-axis should be number of domains that fall into that bin.
-
-*Receiving all the points for this question requires thoughtful discussion of the results, including suggested questions for future investigation.* 
 
 
 ## Submission
 
-Make sure that you have committed and pushed your local repo to GitHub. Your repo should contain any code you developed to answer the questions. Include "Ready to grade @weiglemc" in your final commit message.
+Make sure that you have committed and pushed your local repo to GitHub. Your repo should contain any code you developed to answer the questions. Include "Ready to grade @weiglemc @brutushammerfist" in your final commit message.
 
 Submit the URL of your report in Blackboard:
-* Click on HW6 under Week 10 in Blackboard
+* Click on HW6 under Assignments in Blackboard
 * Under "Assignment Submission", click the "Write Submission" button.
 * Copy/paste the URL of your report into the edit box
   * should be something like https<nolink>://github.com/cs432-websci-fall20/hw6-disinfo-*username*/blob/master/HW6-report.{pdf,md}
