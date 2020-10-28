@@ -33,6 +33,12 @@ How many unique domains are there?
 
 Save a data file that contains each unique domain, the number of times that domain appeared in the dataset, and the total number of tweets the domain appeared in. 
 
+*Could combine Q1 and Q2*
+
+*Should check domains in D1 and D3 for liveness*
+
+*Could do some analysis of how many tweets the domains appeared in*
+
 ### Q3
 
 *(2 points)* Compare the domains present in your processed D2 dataset (from Q2) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?  
