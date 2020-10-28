@@ -19,6 +19,12 @@ Write a report that answers the following questions. Support your answers by inc
 
 Save a data file that contains the original URI, tweet frequency (from the original data file), final URI (many of these will be the same as the original URI), and current HTTP status.
 
+How many URIs redirected to a different URI?
+
+How many of the final URIs reported a 200 OK?
+
+How many of the final URIs reported a 404 Not Found (or some other non-200 status)?
+
 ### Q2
 
 *(1 point)*  For each of the final URIs from Q1, extract the domain from the URI. For example, given the URI `https://en.wikipedia.org/wiki/Domain_name`, the domain is `wikipedia.org`, and for the URI `https://www.theregister.co.uk/2020/04/16/cloudflare_cobol/`, the domain is `theregister.co.uk`.
