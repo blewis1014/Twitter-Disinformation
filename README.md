@@ -15,13 +15,13 @@ Write a report that answers the following questions. Support your answers by inc
 
 ### Q1
 
-*(2 points)* The D2 dataset contains some shortened URIs and proxies. Process each URI and follow redirects until it resolves as a 200 or there is a 40x HTTP status. 
+*(1 point)* The D2 dataset contains some shortened URIs and proxies. Process each URI and follow redirects until it resolves as a 200 or there is a 40x HTTP status. 
 
 Save a data file that contains the original URI, tweet frequency (from the original data file), final URI (many of these will be the same as the original URI), and current HTTP status.
 
 ### Q2
 
-*(2 points)*  For each of the final URIs from Q1, extract the domain from the URI. For example, given the URI `https://en.wikipedia.org/wiki/Domain_name`, the domain is `wikipedia.org`, and for the URI `https://www.theregister.co.uk/2020/04/16/cloudflare_cobol/`, the domain is `theregister.co.uk`.
+*(1 point)*  For each of the final URIs from Q1, extract the domain from the URI. For example, given the URI `https://en.wikipedia.org/wiki/Domain_name`, the domain is `wikipedia.org`, and for the URI `https://www.theregister.co.uk/2020/04/16/cloudflare_cobol/`, the domain is `theregister.co.uk`.
 
 How many unique domains are there?
 
@@ -29,13 +29,15 @@ Save a data file that contains each unique domain, the number of times that doma
 
 ### Q3
 
-*(3 points)* Compare the domains present in your processed D2 dataset (from Q2) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?  
+*(2 points)* Compare the domains present in your processed D2 dataset (from Q2) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?  
 
 ### Q4
+*(3 points)*
 
 Search for tweets sharing links from any live domain that shows up in 2 of the 3 datasets.  `q="url:stackoverflow.com"`
 
 ### Q5
+*(3 points)*
 
 Create a network graph, similar to Dr. Starbird's, where a domain shared in a tweet is a node and a link exists between two nodes if a single Twitter account shared both domains.  
 
