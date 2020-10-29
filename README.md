@@ -48,6 +48,8 @@ Save a data file that contains each unique domain, the number of times that doma
 
 Search for tweets sharing links from any live domain that shows up in 2 of the 3 datasets.  `q="url:stackoverflow.com"`
 
+*Or search for tweets that contain "election" and then analyze tweets from there that contained links to any of these domains*
+
 ### Q5
 *(3 points)*
 
