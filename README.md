@@ -82,6 +82,11 @@ For example, if @weiglemc shared a tweet with a link to www.odu.edu and another 
 Re-do Q5, but map the size of the node to the number of tweets the domain was shared in.
 
 ### Q7
+*(1 point)*
+
+Compare the number of tweets per domain (from Q4) with the original D1 data and your dataset from Q2 (for the D2 dataset).  What are the top 5 shared domains in each set?  How do these compare?
+
+### Q8
 *(2 points)*
 
 Investigate the text of the tweets you collected.  What were the most common terms?  What were the most common hashtags?  How many tweets contained the most common terms/hashtags?  How many accounts used the most common terms/hashtags?
