@@ -33,7 +33,9 @@ How many of the final URIs reported a 404 Not Found (or some other non-200 statu
 
 *(1 point)*  
 
-For each of the final URIs from Q1, extract the domain from the URI. For example, given the URI `https://en.wikipedia.org/wiki/Domain_name`, the domain is `wikipedia.org`, and for the URI `https://www.theregister.co.uk/2020/04/16/cloudflare_cobol/`, the domain is `theregister.co.uk`.
+For each of the final URIs from Q1, extract the domain from the URI. Examples:
+* Given the URI `https://en.wikipedia.org/wiki/Domain_name`, the domain is `wikipedia.org`.
+* Given the URI `https://www.theregister.co.uk/2020/04/16/cloudflare_cobol/`, the domain is `theregister.co.uk`.
 
 How many unique domains are there?
 
