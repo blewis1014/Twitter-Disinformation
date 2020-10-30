@@ -56,10 +56,17 @@ Is there anything interesting about the domains that are present in multiple dat
 ### Q4
 *(3 points)*
 
-Collect tweets that contain links from all domains that appear in both D3 and one of the other datasets.
-* Hint: If you're using tweepy, you can use `api.search("url:" + domain)` to search for tweets that contain links with the given domain.
+Collect at least 200 tweets that contain links from domains that appear in both D3 and one of the other datasets.
+* Hint: If you're using tweepy, you can use `api.search("url:" + domain, lang="en")` to search for English language tweets that contain links with the given domain.
 
-For each tweet, save the tweet text and the account that shared the link (`user.screen_name`).
+For each tweet, save the following information:
+* account that shared the link (`user.screen_name`)
+* tweet time (`created_at.strftime("%Y%m%d%H%M%S")`)
+* domain (*what domain you searched for*)
+* link (`entities["urls"][0]["expanded_url"]`)
+* tweet text (`text`)
+
+I would recommend writing a separate script to collect tweets and write out the information to a JSON file (see `json.dump()`) and then read in the file later for processing.
 
 How many tweets did you gather?  How many different accounts posted those tweets?
 
@@ -89,7 +96,7 @@ Compare the number of tweets per domain (from Q4) with the original D1 data and 
 ### Q8
 *(2 points)*
 
-Investigate the text of the tweets you collected.  What were the most common terms?  What were the most common hashtags?  How many tweets contained the most common terms/hashtags?  How many accounts used the most common terms/hashtags?
+Investigate the text of the tweets you collected.  What were the most common terms?  How many tweets contained the most common terms/hashtags?  
 
 What insights did you gain?  What could be some avenues for further investigation?
 
