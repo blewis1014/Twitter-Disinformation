@@ -71,9 +71,9 @@ For each tweet, save the following information:
 
 I would recommend writing a separate script to collect tweets and write out the information to a JSON file (see `json.dump()`) and then read in the file later for processing.
 * if you store your tweet data as an array of Python dictionaries (one dictionary for each tweet), then you can write out the data in formatted JSON to stdout with `json.dump(tweet_data, sys.stdout, indent=2)`
-  * ex: `python3 gather_tweets.py > tweets.json`
+  * example of running a program and writing the data to a file via stdout: `python3 gather_tweets.py > tweets.json`
 * to load the data from stdin, you can use `tweet_data = json.load(sys.stdin)`
-  * ex: `python3 process_tweets.py < tweets.json`
+  * example of running a program and reading in a file via stdin: `python3 process_tweets.py < tweets.json`
 
 *If you cannot gather the tweets, you can request a JSON file from us, but it costs 1 point.*
 
