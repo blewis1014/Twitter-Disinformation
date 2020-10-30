@@ -62,7 +62,7 @@ Collect at least 200 tweets that contain links from domains that appear in both 
 For each tweet, save the following information:
 * account that shared the link (`user.screen_name`)
 * tweet time (`created_at.strftime("%Y%m%d%H%M%S")`)
-* domain (*what domain you searched for*)
+* domain (*the domain you searched for*)
 * link (`entities["urls"][0]["expanded_url"]`)
 * tweet text (`text`)
 
