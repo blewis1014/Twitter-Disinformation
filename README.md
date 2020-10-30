@@ -91,7 +91,7 @@ Compare the number of tweets per domain (from Q4) with the original D1 data and 
 ## Extra Credit
 
 ### Q6 
-*(3 points)*
+*(2 points)*
 
 Create a network graph, similar to Dr. Starbird's, where a domain shared in a tweet is a node and a link exists between two nodes if a single account shared a link from both domains.  The size of the node should be based on the number of tweets the domain was shared in.
 
