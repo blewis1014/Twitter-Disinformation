@@ -57,16 +57,23 @@ Is there anything interesting about the domains that are present in multiple dat
 *(3 points)*
 
 Collect at least 200 tweets that contain links from domains that appear in both D3 and one of the other datasets.
-* Hint: If you're using tweepy, you can use `api.search("url:" + domain, lang="en")` to search for English language tweets that contain links with the given domain.
+* Hint: If you're using tweepy, you can use `api.search("url:" + domain, lang="en", count=200)` to search for English language tweets that contain links with the given domain (see [Search Methods](http://docs.tweepy.org/en/latest/api.html#search-methods)).
 
 For each tweet, save the following information:
+* tweet id (`id_str`)
 * account that shared the link (`user.screen_name`)
 * tweet time (`created_at.strftime("%Y%m%d%H%M%S")`)
 * domain (*the domain you searched for*)
 * link (`entities["urls"][0]["expanded_url"]`)
-* tweet text (`text`)
+* tweet text (`text`) - *if you plan to do Q8*
 
 I would recommend writing a separate script to collect tweets and write out the information to a JSON file (see `json.dump()`) and then read in the file later for processing.
+* if you store your tweet data as an array of Python dictionaries (one dictionary for each tweet), then you can write out the data in formatted JSON to stdout with `json.dump(tweet_data, sys.stdout, indent=2)`
+  * ex: `python3 gather_tweets.py > tweets.json`
+* to load the data from stdin, you can use `tweet_data = json.load(sys.stdin)`
+  * ex: `python3 process_tweets.py < tweets.json`
+
+*If you cannot gather the tweets, you can request a JSON file from us, but it costs 1 point.*
 
 How many tweets did you gather?  How many different accounts posted those tweets?
 
@@ -79,7 +86,7 @@ How many accounts were posting links for each domain?  Create a bar chart showin
 
 Create a network graph, similar to Dr. Starbird's, where a domain shared in a tweet is a node and a link exists between two nodes if a single account shared a link from both domains.  
 
-For example, if @weiglemc shared a tweet with a link to www.odu.edu and another tweet with a link to www.lsu.edu, then there should be a link between node odu.edu and node lsu.edu.
+For example, if user weiglemc shared a tweet with a link to www.odu.edu and another tweet with a link to www.lsu.edu, then there should be a link between node odu.edu and node lsu.edu.
 
 ## Extra Credit
 
@@ -96,9 +103,15 @@ Compare the number of tweets per domain (from Q4) with the original D1 data and 
 ### Q8
 *(2 points)*
 
-Investigate the text of the tweets you collected.  What were the most common terms?  How many tweets contained the most common terms/hashtags?  
+Investigate the text of the tweets you collected and report on any interesting findings.  Here are some example questions you could look at:
+* What were the most common terms?
+* How many tweets contained the most common terms?
+* How many tweets were retweets (text starting with "RT")?
+* How many times was a single tweet repeated?
 
 What insights did you gain?  What could be some avenues for further investigation?
+
+*A thoughtful examination of the data is required to receive the full 2 points.*
 
 ## Submission
 
