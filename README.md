@@ -56,7 +56,7 @@ Generate the following datasets:
 Is there anything interesting about the domains that are present in multiple datasets?
 
 ### Q4
-*(3 points)*
+*(4 points)*
 
 Collect at least 200 tweets that contain links from domains that appear in both D3 and one of the other datasets.
 * Hint: If you're using tweepy, you can use `api.search("url:" + domain, lang="en", count=200)` to search for English language tweets that contain links with the given domain (see [Search Methods](http://docs.tweepy.org/en/latest/api.html#search-methods)).
@@ -67,7 +67,7 @@ For each tweet, save the following information:
 * tweet time (`created_at.strftime("%Y%m%d%H%M%S")`)
 * domain (*the domain you searched for*)
 * link (`entities["urls"][0]["expanded_url"]`)
-* tweet text (`text`) - *if you plan to do Q8*
+* tweet text (`text`) - *if you plan to do Q7*
 
 I would recommend writing a separate script to collect tweets and write out the information to a JSON file (see `json.dump()`) and then read in the file later for processing.
 * if you store your tweet data as an array of Python dictionaries (one dictionary for each tweet), then you can write out the data in formatted JSON to stdout with `json.dump(tweet_data, sys.stdout, indent=2)`
@@ -75,7 +75,7 @@ I would recommend writing a separate script to collect tweets and write out the 
 * to load the data from stdin, you can use `tweet_data = json.load(sys.stdin)`
   * example of running a program and reading in a file via stdin: `python3 process_tweets.py < tweets.json`
 
-*If you cannot gather the tweets, you can request a JSON file from us, but it costs 1 point.*
+*If you cannot gather the tweets, you can request a JSON file from us, but it costs 2 points.*
 
 How many tweets did you gather?  How many different accounts posted those tweets?
 
@@ -84,25 +84,20 @@ How many tweets did you discover for each domain?  Create a bar chart showing th
 How many accounts were posting links for each domain?  Create a bar chart showing the number of accounts per domain.
 
 ### Q5
-*(3 points)*
+*(2 points)*
 
-Create a network graph, similar to Dr. Starbird's, where a domain shared in a tweet is a node and a link exists between two nodes if a single account shared a link from both domains.  
-
-For example, if user weiglemc shared a tweet with a link to www.odu.edu and another tweet with a link to www.lsu.edu, then there should be a link between node odu.edu and node lsu.edu.
+Compare the number of tweets per domain (from Q4) with the original D1 data and your dataset from Q2 (for the D2 dataset).  What are the top 5 shared domains in each set?  How do these compare?
 
 ## Extra Credit
 
 ### Q6 
-*(1 point)*
+*(3 points)*
 
-Re-do Q5, but map the size of the node to the number of tweets the domain was shared in.
+Create a network graph, similar to Dr. Starbird's, where a domain shared in a tweet is a node and a link exists between two nodes if a single account shared a link from both domains.  The size of the node should be based on the number of tweets the domain was shared in.
+
+For example, if user weiglemc shared a tweet with a link to www.odu.edu and another tweet with a link to www.lsu.edu, then there should be a link between node odu.edu and node lsu.edu.
 
 ### Q7
-*(1 point)*
-
-Compare the number of tweets per domain (from Q4) with the original D1 data and your dataset from Q2 (for the D2 dataset).  What are the top 5 shared domains in each set?  How do these compare?
-
-### Q8
 *(2 points)*
 
 Investigate the text of the tweets you collected and report on any interesting findings.  Here are some example questions you could look at:
