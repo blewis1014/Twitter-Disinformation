@@ -17,7 +17,9 @@ Write a report that answers the following questions. Support your answers by inc
 
 ### Q1
 
-*(1 point)* The D2 dataset contains some shortened URIs and proxies. Process each URI and follow redirects until it resolves as a 200 or there is a 40x HTTP status. 
+*(1 point)* 
+
+The D2 dataset (1679 URIs) contains some shortened URIs and proxies. Process each URI and follow redirects until it resolves as a 200 or there is a 40x HTTP status. 
 
 Save a data file that contains the original URI, tweet frequency (from the original data file), final URI (many of these will be the same as the original URI), and current HTTP status.
 
@@ -29,40 +31,62 @@ How many of the final URIs reported a 404 Not Found (or some other non-200 statu
 
 ### Q2
 
-*(1 point)*  For each of the final URIs from Q1, extract the domain from the URI. For example, given the URI `https://en.wikipedia.org/wiki/Domain_name`, the domain is `wikipedia.org`, and for the URI `https://www.theregister.co.uk/2020/04/16/cloudflare_cobol/`, the domain is `theregister.co.uk`.
+*(1 point)*  
+
+For each of the final URIs from Q1, extract the domain from the URI. For example, given the URI `https://en.wikipedia.org/wiki/Domain_name`, the domain is `wikipedia.org`, and for the URI `https://www.theregister.co.uk/2020/04/16/cloudflare_cobol/`, the domain is `theregister.co.uk`.
 
 How many unique domains are there?
 
 Save a data file that contains each unique domain, the number of times that domain appeared in the dataset, and the total number of tweets the domain appeared in. 
 
-*Could combine Q1 and Q2*
-
-*Should check domains in D1 and D3 for liveness*
-
-*Could do some analysis of how many tweets the domains appeared in*
-
 ### Q3
 
-*(2 points)* Compare the domains present in your processed D2 dataset (from Q2) and in D1.  Is there an overlap?  Compare with the domains from D3.  How much overlap is there between the three datasets?  
+*(2 points)* 
+
+Compare the amount of overlap between the three datasets (use your D2 processed domains dataset from Q2).  Create a table showing the amount of overlap among the datasets.  
+
+Generate the following datasets:
+* domains that are present in both D1 and D2
+* domains that are present in both D2 and D3
+* domains that are present in both D1 and D3
+* domains that are present in all three datasets
+
+Is there anything interesting about the domains that are present in multiple datasets?
 
 ### Q4
 *(3 points)*
 
-Search for tweets sharing links from any live domain that shows up in 2 of the 3 datasets.  `q="url:stackoverflow.com"`
+Collect tweets that contain links from all domains that appear in both D3 and one of the other datasets.
+* Hint: If you're using tweepy, you can use `api.search("url:" + domain)` to search for tweets that contain links with the given domain.
 
-*Or search for tweets that contain "election" and then analyze tweets from there that contained links to any of these domains*
+For each tweet, save the tweet text and the account that shared the link (`user.screen_name`).
+
+How many tweets did you gather?  How many different accounts posted those tweets?
+
+How many tweets did you discover for each domain?  Create a bar chart showing the number of tweets per domain.
+
+How many accounts were posting links for each domain?  Create a bar chart showing the number of accounts per domain.
 
 ### Q5
 *(3 points)*
 
-Create a network graph, similar to Dr. Starbird's, where a domain shared in a tweet is a node and a link exists between two nodes if a single Twitter account shared both domains.  
+Create a network graph, similar to Dr. Starbird's, where a domain shared in a tweet is a node and a link exists between two nodes if a single account shared a link from both domains.  
 
 For example, if @weiglemc shared a tweet with a link to www.odu.edu and another tweet with a link to www.lsu.edu, then there should be a link between node odu.edu and node lsu.edu.
 
-Extra credit: Map the size of the node to the number of tweets the domain was shared in.
+## Extra Credit
 
+### Q6 
+*(1 point)*
 
+Re-do Q5, but map the size of the node to the number of tweets the domain was shared in.
 
+### Q7
+*(2 points)*
+
+Investigate the text of the tweets you collected.  What were the most common terms?  What were the most common hashtags?  How many tweets contained the most common terms/hashtags?  How many accounts used the most common terms/hashtags?
+
+What insights did you gain?  What could be some avenues for further investigation?
 
 ## Submission
 
