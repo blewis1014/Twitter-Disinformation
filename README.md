@@ -59,7 +59,7 @@ Collect at least 200 tweets that contain links from domains that appear in both 
 For each tweet, save the following information:
 * tweet id (`id_str`)
 * account that shared the link (`user.screen_name`)
-* tweet time (`created_at.strftime("%Y%m%d%H%M%S")`)
+* tweet time (`created_at.strftime("%Y%m%d%H%M%S")` - *prints date in YYYYMMDDHHMMSS format*)
 * domain (*the domain you searched for*)
 * link (`entities["urls"][0]["expanded_url"]`)
 * tweet text (`text`) - *if you plan to do Q7*
@@ -74,6 +74,7 @@ I would recommend writing a separate script to collect tweets and write out the 
 
 Questions to answer:
 * How many tweets did you gather?  
+* What was the time range of the tweets you gathered?
 * How many different accounts posted those tweets?
 * How many tweets did you discover for each domain? 
   * To answer this question, create a bar chart showing the number of tweets per domain.
