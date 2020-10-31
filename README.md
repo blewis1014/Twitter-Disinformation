@@ -16,36 +16,31 @@
 Write a report that answers the following questions. Support your answers by including all relevant discussion, assumptions, examples, etc. You must describe how you answered the questions and any interesting insights from your work. Your GitHub repo should include all scripts, code, output files, images needed to complete the assignment. If you use a Google Colab notebook, you must save a copy in GitHub in your HW6 repo.
 
 ### Q1
-
-*(1 point)* 
+*(2 points)* 
 
 The D2 dataset (1679 URIs) contains some shortened URIs and proxies. Process each URI and follow redirects until it resolves as a 200 or there is a 40x HTTP status. 
 
 Save a data file that contains the original URI, tweet frequency (from the original data file), final URI (many of these will be the same as the original URI), and current HTTP status.
 
-How many URIs redirected to a different URI?
+Questions to answer:
+* How many URIs redirected to a different URI?
+* How many of the final URIs reported a 200 OK?
+* How many of the final URIs reported a 404 Not Found (or some other non-200 status)?
 
-How many of the final URIs reported a 200 OK?
-
-How many of the final URIs reported a 404 Not Found (or some other non-200 status)?
-
-### Q2
-
-*(1 point)*  
-
-For each of the final URIs from Q1, extract the domain from the URI. Examples:
+For each of the final URIs, extract the domain from the URI. Examples:
 * Given the URI `https://en.wikipedia.org/wiki/Domain_name`, the domain is `wikipedia.org`.
 * Given the URI `https://www.theregister.co.uk/2020/04/16/cloudflare_cobol/`, the domain is `theregister.co.uk`.
 
-How many unique domains are there?
-
 Save a data file that contains each unique domain, the number of times that domain appeared in the dataset, and the total number of tweets the domain appeared in. 
 
-### Q3
+Questions to answer:
+* How many unique domains are there?
+* What were the top 5 domains that appeared in the most tweets?
 
+### Q2
 *(2 points)* 
 
-Compare the amount of overlap between the three datasets (use your D2 processed domains dataset from Q2).  Create a table showing the amount of overlap among the datasets.  
+Compare the amount of overlap between the three datasets (use your D2 processed domains dataset from Q1).  Create a table showing the amount of overlap among the datasets.  
 
 Generate the following datasets:
 * domains that are present in both D1 and D2
@@ -55,7 +50,7 @@ Generate the following datasets:
 
 Is there anything interesting about the domains that are present in multiple datasets?
 
-### Q4
+### Q3
 *(4 points)*
 
 Collect at least 200 tweets that contain links from domains that appear in both D3 and one of the other datasets.
@@ -77,16 +72,18 @@ I would recommend writing a separate script to collect tweets and write out the 
 
 *If you cannot gather the tweets, you can request a JSON file from us, but it costs 2 points.*
 
-How many tweets did you gather?  How many different accounts posted those tweets?
+Questions to answer:
+* How many tweets did you gather?  
+* How many different accounts posted those tweets?
+* How many tweets did you discover for each domain? 
+  * To answer this question, create a bar chart showing the number of tweets per domain.
+* How many accounts were posting links for each domain?  
+  * To answer this question, create a bar chart showing the number of accounts per domain.
 
-How many tweets did you discover for each domain?  Create a bar chart showing the number of tweets per domain.
-
-How many accounts were posting links for each domain?  Create a bar chart showing the number of accounts per domain.
-
-### Q5
+### Q4
 *(2 points)*
 
-Compare the number of tweets per domain (from Q4) with the original D1 data and your dataset from Q2 (for the D2 dataset).  What are the top 5 shared domains in each set?  How do these compare?
+Compare the number of tweets per domain (from Q3) with the original D1 data and your domain dataset from Q1 (for the D2 dataset).  What are the top 5 shared domains in each set?  How do these compare?
 
 ## Extra Credit
 
