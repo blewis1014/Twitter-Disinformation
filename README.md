@@ -96,7 +96,11 @@ Questions to answer:
 ### Q4
 *(2 points)*
 
-Compare the number of tweets per domain (from Q3) with the original D1 data and your domain dataset from Q1 (for the D2 dataset).  What are the top 5 shared domains in each set?  How do these compare?
+Compare the number of tweets per domain (from Q3) with the original D1 data and your domain dataset from Q1 (for the D2 dataset).  
+
+Questions to answer:
+* What are the top 5 shared domains in each set?  How do these compare?  
+* The datasets will have different numbers because of different number of tweets captures, but how do the distributions compare?  An eCDF ([Week-03 InfoVis](https://docs.google.com/presentation/d/1qBZreni_aXcBbj4K5xAPvt2IPP7nVfv_DCtslINcehc/edit?usp=sharing), slide 24) might be helpful in comparing the distributions.
 
 ## Extra Credit
 
@@ -110,7 +114,7 @@ For example, if user weiglemc shared a tweet with a link to www.odu.edu and anot
 ### Q6
 *(2 points)*
 
-Investigate the text of the tweets you collected and report on any interesting findings.  Here are some example questions you could look at:
+Investigate the text of the tweets you collected in Q3 .and report on any interesting findings.  Here are some example questions you could look at:
 * What were the most common terms?
 * How many tweets contained the most common terms?
 * How many tweets were retweets (text starting with "RT")?
@@ -119,6 +123,8 @@ Investigate the text of the tweets you collected and report on any interesting f
 What insights did you gain?  What could be some avenues for further investigation?
 
 *A thoughtful examination of the data is required to receive the full 2 points.*
+
+### Q7 
 
 ## Submission
 
