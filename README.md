@@ -1,5 +1,5 @@
 # Homework 6 - Analyzing Disinformation Domains
-**Due:** Sunday, November 15, 2020 by 11:59pm
+**Due:** Sunday, November 15, 2020 by 11:59pm 
 
 ## Reports
 * CS 432 students *may* complete this report in Markdown. Or, you may choose to use LaTeX instead. 
