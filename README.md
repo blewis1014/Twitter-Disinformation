@@ -43,17 +43,17 @@ Questions to answer:
 Compare the amount of overlap between the three datasets (use your D2 processed domains dataset from Q1).  Create a table showing the amount of overlap among the datasets.  
 
 Generate the following datasets:
-1. domains that are present in both D1 and D2
-1. domains that are present in both D2 and D3
-1. domains that are present in both D1 and D3
-1. domains that are present in all three datasets
+* a. domains that are present in both D1 and D2
+* b. domains that are present in both D2 and D3
+* c. domains that are present in both D1 and D3
+* d. domains that are present in all three datasets
 
 Is there anything interesting about the domains that are present in multiple datasets?
 
 ### Q3
 *(4 points)*
 
-Collect at least 200 tweets that contain links from domains that appear in both D3 and one of the other datasets (so, dataset 2 or dataset 3 from Q2).
+Collect at least 200 tweets that contain links from domains that appear in both D3 and one of the other datasets (so, dataset b or dataset c from Q2).
 * Hint: If you're using tweepy, you can use `api.search("url:" + domain, lang="en", count=200)` to search for English language tweets that contain links with the given domain (see [Search Methods](http://docs.tweepy.org/en/latest/api.html#search-methods)).
 
 For each tweet, save the following information:
