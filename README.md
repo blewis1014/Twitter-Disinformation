@@ -125,6 +125,7 @@ What insights did you gain?  What could be some avenues for further investigatio
 *A thoughtful examination of the data is required to receive the full 2 points.*
 
 ### Q7 
+*(3 points)*
 
 For each domain in D1, D2 (using results from Q2), and D3, check the archival status of the domain's main webpage using MemGator. If a domain appears in multiple datasets, only check the status once.
 
