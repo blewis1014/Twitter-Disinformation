@@ -88,14 +88,14 @@ Compare the number of tweets per domain (from Q3) with the original D1 data and 
 
 ## Extra Credit
 
-### Q6 
+### Q5 
 *(2 points)*
 
 Create a network graph, similar to Dr. Starbird's, where a domain shared in a tweet is a node and a link exists between two nodes if a single account shared a link from both domains.  The size of the node should be based on the number of tweets the domain was shared in.
 
 For example, if user weiglemc shared a tweet with a link to www.odu.edu and another tweet with a link to www.lsu.edu, then there should be a link between node odu.edu and node lsu.edu.
 
-### Q7
+### Q6
 *(2 points)*
 
 Investigate the text of the tweets you collected and report on any interesting findings.  Here are some example questions you could look at:
