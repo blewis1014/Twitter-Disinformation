@@ -115,7 +115,7 @@ For example, if user weiglemc shared a tweet with a link to www.odu.edu and anot
 ### Q6
 *(2 points)*
 
-Investigate the text of the tweets you collected in Q3 .and report on any interesting findings.  Here are some example questions you could look at:
+Investigate the text of the tweets you collected in Q3 and report on any interesting findings.  Here are some example questions you could look at:
 * What were the most common terms?
 * How many tweets contained the most common terms?
 * How many tweets were retweets (text starting with "RT")?
