@@ -43,10 +43,10 @@ Questions to answer:
 Compare the amount of overlap between the three datasets (use your D2 processed domains dataset from Q1).  Create a table showing the amount of overlap among the datasets.  
 
 Generate the following datasets:
-a. domains that are present in both D1 and D2
-b. domains that are present in both D2 and D3
-c. domains that are present in both D1 and D3
-d. domains that are present in all three datasets
+1. domains that are present in both D1 and D2
+1. domains that are present in both D2 and D3
+1. domains that are present in both D1 and D3
+1. domains that are present in all three datasets
 
 Is there anything interesting about the domains that are present in multiple datasets?
 
