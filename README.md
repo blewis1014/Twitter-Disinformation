@@ -126,6 +126,21 @@ What insights did you gain?  What could be some avenues for further investigatio
 
 ### Q7 
 
+For each domain in D1, D2 (using results from Q2), and D3, check the archival status of the domain's main webpage using MemGator. If a domain appears in multiple datasets, only check the status once.
+
+You don't need to figure out the actual main webpage URI, just putting the domain in the request should work, for example
+`% curl http://memgator.cs.odu.edu/timemap/link/theregister.co.uk/`
+
+Save the TimeMap for each domain in your GitHub repo.
+
+Save a data file that contains each domain name, the dataset(s) it appears in (D1/D2/D3), datetime of its first memento, datetime of its last memento, and its total number of mementos. 
+
+Note that some of the main webpages for the domains in D3 should have at least 1 memento because the Internet Archive has created an Archive-It collection of these (see https://archive-it.org/collections/13559). Though, this was created in March 2020 and the list is continually being updated by NewsGuardTech.
+
+Create the following charts based on the collected data:
+* Scatterplot of domain vs. datetime of the first memento and last memento (x-axis), sorted by the datetime of the first memento.  Color dots based on the dataset (or datasets) it comes from. This should look similar to this [chart of URIs vs. memento datetimes](https://3.bp.blogspot.com/-8vNC-7UraiQ/U43lwAC0pSI/AAAAAAAAAE4/1IyHbXH9CKQ/s1600/mementosScatterDmoz.png), but with only the first and last dot on each row plotted (since you're only plotting the datetimes of the first and last mementos).
+* eCDF of the number of mementos per domain for all the datasets. The x-axis should be number of mementos for a domain.
+
 ## Submission
 
 Make sure that you have committed and pushed your local repo to GitHub. Your repo should contain any code you developed to answer the questions. Include "Ready to grade @weiglemc @brutushammerfist" in your final commit message.
