@@ -100,7 +100,7 @@ Compare the number of tweets per domain (from Q3) with the original D1 data and 
 
 Questions to answer:
 * What are the top 5 shared domains in each set?  How do these compare?  
-* The datasets will have different numbers because of different number of tweets captures, but how do the distributions compare?  
+* The datasets will have different numbers because of different number of tweets captured, but how do the distributions compare?  
   * eCDFs ([Week-03 InfoVis](https://docs.google.com/presentation/d/1qBZreni_aXcBbj4K5xAPvt2IPP7nVfv_DCtslINcehc/edit?usp=sharing), slide 24) might be helpful in comparing the distributions.  There's a section on creating eCDFs in our Week-03 Google Colab notebooks: [Python notebook](https://github.com/cs432-websci-fall20/assignments/blob/master/432_Week_03_InfoVis_Python.ipynb), [R notebook](https://github.com/cs432-websci-fall20/assignments/blob/master/432_Week_03_InfoVis_R.ipynb)
 
 ## Extra Credit
