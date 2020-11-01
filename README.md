@@ -19,7 +19,7 @@ All reports must include your name, class (make sure to distinguish between CS 4
 * [D2](expanded-URLs.csv) - 1679 URIs shared in tweets in the ICWSM 2018 paper, related to work of White Helmets in Syria
   * *this dataset was sent to ODU for research purposes, so do not share*
   * not all links are to disinformation sites
-* [D3](https://docs.google.com/spreadsheets/d/1bjuMnAnDsiVWrIuGIIpsXKBqkYNrOehmx0_ZWGVI6d0/) - 347 domains publishing false Coronavirus information, gathered by https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/ as of October 28, 2020
+* [D3](https://docs.google.com/spreadsheets/d/1bjuMnAnDsiVWrIuGIIpsXKBqkYNrOehmx0_ZWGVI6d0/) - 347 domains publishing false Coronavirus information, gathered by [NewsGuardTech's Coronavirus Misinformation Tracking Center](https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/) as of October 28, 2020
 
 *Google spreadsheets can be downloaded as CSV or TSV files using the File...Download... menu option* 
 
