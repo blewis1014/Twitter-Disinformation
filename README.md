@@ -1,6 +1,18 @@
 # Homework 6 - Analyzing Disinformation Domains
 **Due:** Sunday, November 15, 2020 by 11:59pm
 
+## Reports
+* CS 432 students *may* complete this report in Markdown. Or, you may choose to use LaTeX instead. 
+* CS 532 students *must* complete this report using LaTeX generated to a PDF file (GitHub repo must contain both the LaTeX source and PDF).
+* Any graphs required for your reports must be done in R or using a Python plotting library (see ["The 7 most popular ways to plot data in Python"](https://opensource.com/article/20/4/plot-data-python)) -- Excel graphs are unacceptable!
+* When you include an image in your report, *do not change the [aspect ratio](https://en.wikipedia.org/wiki/Aspect_ratio_(image)) of the image*. If you have trouble with this, ask for help in our Piazza group.
+
+Reports are not just a list of questions and answers, but should include descriptions, screenshots, copy-paste of code output, references, as necessary.  For each question you address, you must describe how you answered the question.  
+
+You may use existing code, but you **must** document and reference where you adapted the code -- give credit where credit is due! *Use without attribution is plagiarism!*
+
+All reports must include your name, class (make sure to distinguish between CS 432 and CS 532), assignment number/title, and date.  You do not need a title page.  
+
 ## Data Sources:
 * [D1](https://docs.google.com/spreadsheets/d/1lk3pFSc5wo3OfJc8ekONqO3MJCCigqe8SBSYwLYlHLo/) - 117 domains shared in tweets in the ICWSM 2017 paper, related to mass shootings
    * not all links are to disinformation sites, includes some mainstream news sources
