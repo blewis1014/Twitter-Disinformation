@@ -74,7 +74,7 @@ For each tweet, save the following information:
 * tweet time (`created_at.strftime("%Y%m%d%H%M%S")` - *prints date in YYYYMMDDHHMMSS format*)
 * domain (*the domain you searched for*)
 * link (`entities["urls"][0]["expanded_url"]`)
-* tweet text (`text`) - *if you plan to do Q6*
+* tweet text (`text`) - *if you plan to do extra credit Q6*
 
 I would recommend writing a separate script to collect tweets and write out the information to a JSON file (see `json.dump()`) and then read in the file later for processing.
 * if you store your tweet data as an array of Python dictionaries (one dictionary for each tweet), then you can write out the data in formatted JSON to stdout with `json.dump(tweet_data, sys.stdout, indent=2)`
@@ -89,9 +89,9 @@ Questions to answer:
 * What was the time range of the tweets you gathered?
 * How many different accounts posted those tweets?
 * How many tweets did you discover for each domain? 
-  * To answer this question, create a bar chart showing the number of tweets per domain.
+  * To answer this question, create a bar chart showing the number of tweets for each domain.
 * How many accounts were posting links for each domain?  
-  * To answer this question, create a bar chart showing the number of accounts per domain.
+  * To answer this question, create a bar chart showing the number of accounts for each domain.
 
 ### Q4
 *(2 points)*
