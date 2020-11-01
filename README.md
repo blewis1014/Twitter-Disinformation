@@ -53,7 +53,7 @@ Is there anything interesting about the domains that are present in multiple dat
 ### Q3
 *(4 points)*
 
-Collect at least 200 tweets that contain links from domains that appear in both D3 and one of the other datasets.
+Collect at least 200 tweets that contain links from domains that appear in both D3 and one of the other datasets (so, dataset 2 or dataset 3 from Q2).
 * Hint: If you're using tweepy, you can use `api.search("url:" + domain, lang="en", count=200)` to search for English language tweets that contain links with the given domain (see [Search Methods](http://docs.tweepy.org/en/latest/api.html#search-methods)).
 
 For each tweet, save the following information:
