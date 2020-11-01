@@ -70,7 +70,7 @@ I would recommend writing a separate script to collect tweets and write out the 
 * to load the data from stdin, you can use `tweet_data = json.load(sys.stdin)`
   * example of running a program and reading in a file via stdin: `python3 process_tweets.py < tweets.json`
 
-*If you cannot gather the tweets, you can request a JSON file from us, but it costs 2 points.*
+*If you cannot gather the tweets, you can request a JSON file from us, but it costs 1.5 points.*
 
 Questions to answer:
 * How many tweets did you gather?  
