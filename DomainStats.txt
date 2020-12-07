@@ -1,0 +1,123 @@
+Domain: 21stcenturywire.com
+Number of Tweets: 207    
+Number of Accounts: 88   
+
+
+Domain: activistpost.com 
+Number of Tweets: 204    
+Number of Accounts: 79   
+
+
+Domain: beforeitsnews.com
+Number of Tweets: 69     
+Number of Accounts: 33   
+
+
+Domain: breitbart.com
+Number of Tweets: 210
+Number of Accounts: 122
+
+
+Domain: collective-evolution.com
+Number of Tweets: 205
+Number of Accounts: 123
+
+
+Domain: davidicke.com
+Number of Tweets: 71
+Number of Accounts: 52
+
+
+Domain: dcclothesline.com
+Number of Tweets: 202
+Number of Accounts: 105
+
+
+Domain: de.sputniknews.com
+Number of Tweets: 5
+Number of Accounts: 4
+
+
+Domain: deutsch.rt.com
+Number of Tweets: 14
+Number of Accounts: 10
+
+
+Domain: fr.sputniknews.com
+Number of Tweets: 12
+Number of Accounts: 11
+
+
+Domain: gellerreport.com
+Number of Tweets: 204
+Number of Accounts: 81
+
+
+Domain: globalresearch.ca
+Number of Tweets: 0
+Number of Accounts: 0
+
+
+Domain: humansarefree.com
+Number of Tweets: 207
+Number of Accounts: 88
+
+
+Domain: infowars.com
+Number of Tweets: 231
+Number of Accounts: 110
+
+
+Domain: intellihub.com
+Number of Tweets: 76
+Number of Accounts: 28
+
+
+Domain: off-guardian.org
+Number of Tweets: 0
+Number of Accounts: 0
+
+
+Domain: presstv.com
+Number of Tweets: 211
+Number of Accounts: 64
+
+
+Domain: ronpaulinstitute.org
+Number of Tweets: 158
+Number of Accounts: 81
+
+
+Domain: rubikon.news
+Number of Tweets: 10
+Number of Accounts: 7
+
+
+Domain: sott.net
+Number of Tweets: 0
+Number of Accounts: 0
+
+
+Domain: theduran.com
+Number of Tweets: 0
+Number of Accounts: 0
+
+
+Domain: thewashingtonstandard.com
+Number of Tweets: 200
+Number of Accounts: 30
+
+
+Domain: ukcolumn.org
+Number of Tweets: 207
+Number of Accounts: 83
+
+
+Domain: worldtruth.tv
+Number of Tweets: 205
+Number of Accounts: 28
+
+
+Total Number of Tweets: 2908
+Total Number of Accounts: 1156
+Time Range: {20201121122509 --- 20201130192909} #11/21/2020 12:25PM --- 11/30/2020 7:29PM

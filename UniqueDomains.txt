@@ -1,0 +1,3250 @@
+Number of Unique Domains: 812/1679 URIs
+
+Domain: news.google.com
+Frequency in Data: 40
+Frequency in Twitter Posts: 1
+
+Domain: www.newslocker.com
+Frequency in Data: 38
+Frequency in Twitter Posts: 1
+
+Domain: 21stcenturywire.com
+Frequency in Data: 36
+Frequency in Twitter Posts: 29
+
+Domain: www.google.com
+Frequency in Data: 28
+Frequency in Twitter Posts: 1
+
+Domain: news.quiboat.com
+Frequency in Data: 22
+Frequency in Twitter Posts: 1
+
+Domain: clarityofsignal.com
+Frequency in Data: 20
+Frequency in Twitter Posts: 464
+
+Domain: www.rt.com
+Frequency in Data: 17
+Frequency in Twitter Posts: 9
+
+Domain: www.sott.net
+Frequency in Data: 17
+Frequency in Twitter Posts: 10
+
+Domain: sputniknews.com
+Frequency in Data: 16
+Frequency in Twitter Posts: 75
+
+Domain: www.yahoo.com
+Frequency in Data: 16
+Frequency in Twitter Posts: 31
+
+Domain: www.wrongkindofgreen.org
+Frequency in Data: 16
+Frequency in Twitter Posts: 5
+
+Domain: www.1clickdaily.com
+Frequency in Data: 14
+Frequency in Twitter Posts: 1
+
+Domain: www.jewworldorder.org
+Frequency in Data: 14
+Frequency in Twitter Posts: 2
+
+Domain: www.syrianews.cc
+Frequency in Data: 12
+Frequency in Twitter Posts: 42
+
+Domain: www.mintpressnews.com
+Frequency in Data: 11
+Frequency in Twitter Posts: 179
+
+Domain: www.theguardian.com
+Frequency in Data: 11
+Frequency in Twitter Posts: 242
+
+Domain: beforeitsnews.com
+Frequency in Data: 11
+Frequency in Twitter Posts: 7
+
+Domain: www.activistpost.com
+Frequency in Data: 11
+Frequency in Twitter Posts: 83
+
+Domain: www.globalresearch.ca
+Frequency in Data: 11
+Frequency in Twitter Posts: 39
+
+Domain: theduran.com
+Frequency in Data: 10
+Frequency in Twitter Posts: 1
+
+Domain: www.bbc.co.uk
+Frequency in Data: 10
+Frequency in Twitter Posts: 3
+
+Domain: steemit.com
+Frequency in Data: 10
+Frequency in Twitter Posts: 1
+
+Domain: www.liveleak.com
+Frequency in Data: 10
+Frequency in Twitter Posts: 1
+
+Domain: www.almasdarnews.com
+Frequency in Data: 10
+Frequency in Twitter Posts: 36
+
+Domain: apnews.com
+Frequency in Data: 9
+Frequency in Twitter Posts: 1
+
+Domain: www.veteranstoday.com
+Frequency in Data: 9
+Frequency in Twitter Posts: 2
+
+Domain: www.telegraph.co.uk
+Frequency in Data: 9
+Frequency in Twitter Posts: 66
+
+Domain: therussophile.org
+Frequency in Data: 9
+Frequency in Twitter Posts: 1
+
+Domain: www.dailymail.co.uk
+Frequency in Data: 9
+Frequency in Twitter Posts: 2
+
+Domain: www.kiblat.net
+Frequency in Data: 8
+Frequency in Twitter Posts: 7
+
+Domain: friendsforsyria.com
+Frequency in Data: 8
+Frequency in Twitter Posts: 3
+
+Domain: thewallwillfall.org
+Frequency in Data: 8
+Frequency in Twitter Posts: 107
+
+Domain: feeds.feedburner.com
+Frequency in Data: 8
+Frequency in Twitter Posts: 1
+
+Domain: middle-east.timesofnews.com
+Frequency in Data: 8
+Frequency in Twitter Posts: 3
+
+Domain: www.independent.co.uk
+Frequency in Data: 7
+Frequency in Twitter Posts: 84
+
+Domain: www.aljazeera.com
+Frequency in Data: 7
+Frequency in Twitter Posts: 184
+
+Domain: www.tipperarylive.ie
+Frequency in Data: 7
+Frequency in Twitter Posts: 49
+
+Domain: www.alternet.org
+Frequency in Data: 7
+Frequency in Twitter Posts: 239
+
+Domain: www.intelli.news
+Frequency in Data: 7
+Frequency in Twitter Posts: 1
+
+Domain: blauerbote.com
+Frequency in Data: 6
+Frequency in Twitter Posts: 2
+
+Domain: uprootedpalestinians.wordpress.com
+Frequency in Data: 6
+Frequency in Twitter Posts: 8
+
+Domain: en.farsnews.com
+Frequency in Data: 6
+Frequency in Twitter Posts: 1
+
+Domain: www.nbcnews.com
+Frequency in Data: 6
+Frequency in Twitter Posts: 316
+
+Domain: www.newsweek.com
+Frequency in Data: 6
+Frequency in Twitter Posts: 216
+
+Domain: eaworldview.com
+Frequency in Data: 6
+Frequency in Twitter Posts: 44
+
+Domain: route.overnewser.com
+Frequency in Data: 6
+Frequency in Twitter Posts: 6
+
+Domain: medium.com
+Frequency in Data: 6
+Frequency in Twitter Posts: 128
+
+Domain: davidicke.com
+Frequency in Data: 6
+Frequency in Twitter Posts: 3
+
+Domain: en.news-front.info
+Frequency in Data: 6
+Frequency in Twitter Posts: 2
+
+Domain: www.washingtonpost.com
+Frequency in Data: 5
+Frequency in Twitter Posts: 1
+
+Domain: gellerreport.com
+Frequency in Data: 5
+Frequency in Twitter Posts: 234
+
+Domain: www.thetruthseeker.co.uk
+Frequency in Data: 5
+Frequency in Twitter Posts: 17
+
+Domain: en.wikipedia.org
+Frequency in Data: 5
+Frequency in Twitter Posts: 
+
+Domain: www.cnn.com
+Frequency in Data: 5
+Frequency in Twitter Posts: 713
+
+Domain: www.cbsnews.com
+Frequency in Data: 5
+Frequency in Twitter Posts: 38
+
+Domain: yournewswire.com
+Frequency in Data: 5
+Frequency in Twitter Posts: 11
+
+Domain: www.brotherjohnf.com
+Frequency in Data: 5
+Frequency in Twitter Posts: 3
+
+Domain: peoplestrusttoronto.wordpress.com
+Frequency in Data: 5
+Frequency in Twitter Posts: 1
+
+Domain: theantimedia.org
+Frequency in Data: 5
+Frequency in Twitter Posts: 49
+
+Domain: landdestroyer.blogspot.com
+Frequency in Data: 5
+Frequency in Twitter Posts: 1
+
+Domain: daveyone1.wordpress.com
+Frequency in Data: 5
+Frequency in Twitter Posts: 2
+
+Domain: www.thefringenews.com
+Frequency in Data: 4
+Frequency in Twitter Posts: 1
+
+Domain: www.washingtonsblog.com
+Frequency in Data: 4
+Frequency in Twitter Posts: 6
+
+Domain: russia-insider.com
+Frequency in Data: 4
+Frequency in Twitter Posts: 76
+
+Domain: thefreethoughtproject.com
+Frequency in Data: 4
+Frequency in Twitter Posts: 157
+
+Domain: www.hugedomains.com
+Frequency in Data: 4
+Frequency in Twitter Posts: 1
+
+Domain: southfront.org
+Frequency in Data: 4
+Frequency in Twitter Posts: 3
+
+Domain: www.sekarang.ga
+Frequency in Data: 4
+Frequency in Twitter Posts: 1
+
+Domain: www.f3nws.com
+Frequency in Data: 4
+Frequency in Twitter Posts: 1
+
+Domain: soundcloud.com
+Frequency in Data: 4
+Frequency in Twitter Posts: 2
+
+Domain: tippfm.com
+Frequency in Data: 4
+Frequency in Twitter Posts: 1
+
+Domain: timhayward.wordpress.com
+Frequency in Data: 4
+Frequency in Twitter Posts: 1
+
+Domain: www.nytimes.com
+Frequency in Data: 4
+Frequency in Twitter Posts: 27
+
+Domain: plow.io
+Frequency in Data: 4
+Frequency in Twitter Posts: 1
+
+Domain: beyondthesleep.tumblr.com
+Frequency in Data: 4
+Frequency in Twitter Posts: 1
+
+Domain: www.youtube.com
+Frequency in Data: 4
+Frequency in Twitter Posts: 1
+
+Domain: news.clickysound.com
+Frequency in Data: 4
+Frequency in Twitter Posts: 1
+
+Domain: alethonews.com
+Frequency in Data: 4
+Frequency in Twitter Posts: 2
+
+Domain: www.bbc.com
+Frequency in Data: 4
+Frequency in Twitter Posts: 2
+
+Domain: therealnews.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 235
+
+Domain: www.thedailysheeple.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 7
+
+Domain: worldtruth.tv
+Frequency in Data: 3
+Frequency in Twitter Posts: 2
+
+Domain: www.middleeasteye.net
+Frequency in Data: 3
+Frequency in Twitter Posts: 279
+
+Domain: urs17982.wordpress.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 5
+
+Domain: aa.com.tr
+Frequency in Data: 3
+Frequency in Twitter Posts: 7
+
+Domain: worldaffairs.blog
+Frequency in Data: 3
+Frequency in Twitter Posts: 14
+
+Domain: www.rightrelevance.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: www.informationclearinghouse.info
+Frequency in Data: 3
+Frequency in Twitter Posts: 24
+
+Domain: atharori.net
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: 1newsnet.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: www.telesurenglish.net
+Frequency in Data: 3
+Frequency in Twitter Posts: 49
+
+Domain: www.investmentwatchblog.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 10
+
+Domain: www.flickr.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 18
+
+Domain: www.pbs.org
+Frequency in Data: 3
+Frequency in Twitter Posts: 5
+
+Domain: www.breitbart.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 23
+
+Domain: socialscud.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: notinthenews.uk
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: farsight3.wordpress.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: en.etilaf.org
+Frequency in Data: 3
+Frequency in Twitter Posts: 26
+
+Domain: www.wsj.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 51
+
+Domain: oddcrimes.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: curiouscat.me
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: bsnews.info
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: fort-russ.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 22
+
+Domain: www.gofundme.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: consortiumnews.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 2
+
+Domain: www.infowars.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 2
+
+Domain: tass.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 32
+
+Domain: accounts.google.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: en.addiyar.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: ahtribune.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 2
+
+Domain: www.twitlonger.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: castwb.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 29
+
+Domain: trakt.tv
+Frequency in Data: 3
+Frequency in Twitter Posts: 2
+
+Domain: live.peterpeaksolutions.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: www.governmentslaves.news
+Frequency in Data: 3
+Frequency in Twitter Posts: 4
+
+Domain: www.hannenabintuherland.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: web.archive.org
+Frequency in Data: 3
+Frequency in Twitter Posts: 2
+
+Domain: hamassenger.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: postperhour.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: news.sn4hr.org
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: end-times-synapse.blogspot.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: webegram.org
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: counterinformation.wordpress.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 2
+
+Domain: readfulapp.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 1
+
+Domain: nworeport.me
+Frequency in Data: 3
+Frequency in Twitter Posts: 4
+
+Domain: theindicter.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 2
+
+Domain: m.vk.com
+Frequency in Data: 3
+Frequency in Twitter Posts: 2
+
+Domain: www.mediasuarakyat.ga
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.ems1.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 5
+
+Domain: www.w3livenews.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.informazione.it
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.netflix.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 16
+
+Domain: occasion-to-be.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: talesfromtheloublog.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 3
+
+Domain: www.blacklistednews.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 3
+
+Domain: english.alarabiya.net
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.mirror.co.uk
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: www.irishtimes.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 40
+
+Domain: rusvesna.su
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.truepatriot.net
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: fuhrerious88blog.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.podomatic.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 7
+
+Domain: deazijnpisser.blogspot.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 7
+
+Domain: politicalfilm.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 5
+
+Domain: cooptv.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.usnews.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 4
+
+Domain: syrianfreepress.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: jforpeace.blogspot.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: russia.timesofnews.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: failedevolution.blogspot.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 12
+
+Domain: www.tomcc.org
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: uk.news.yahoo.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: newssummedup.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.collective-evolution.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 50
+
+Domain: www.rferl.org
+Frequency in Data: 2
+Frequency in Twitter Posts: 42
+
+Domain: sportspyder.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: apple.news
+Frequency in Data: 2
+Frequency in Twitter Posts: 25
+
+Domain: conspiracyboi.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: dissidentvoice.org
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: arretsurinfo.ch
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: nexusnewsfeed.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: www.gov.uk
+Frequency in Data: 2
+Frequency in Twitter Posts: 30
+
+Domain: survivalhacking.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.counterpunch.org
+Frequency in Data: 2
+Frequency in Twitter Posts: 5
+
+Domain: www.alalamtv.net
+Frequency in Data: 2
+Frequency in Twitter Posts: 5
+
+Domain: asheepnomore.net
+Frequency in Data: 2
+Frequency in Twitter Posts: 4
+
+Domain: anonymous-news.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 3
+
+Domain: longislandtechnologynews.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: www.worldinwar.eu
+Frequency in Data: 2
+Frequency in Twitter Posts: 8
+
+Domain: orient-news.net
+Frequency in Data: 2
+Frequency in Twitter Posts: 9
+
+Domain: www.thedailybeast.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 20
+
+Domain: consent.yahoo.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.topix.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: reliefweb.int
+Frequency in Data: 2
+Frequency in Twitter Posts: 7
+
+Domain: www.albawaba.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 6
+
+Domain: www.spot.im
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: humansarefree.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 11
+
+Domain: www.dailysabah.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 35
+
+Domain: www.lewrockwell.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: paisbasco.blogspot.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: slate.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.afternic.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: www.arabnews.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.elethos.gr
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: droolindog.net
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: www.belfasttelegraph.co.uk
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: galacticconnection.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.syriacivildefence.org
+Frequency in Data: 2
+Frequency in Twitter Posts: 4
+
+Domain: themuslimissue.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.tasnimnews.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 10
+
+Domain: www.rocketnews.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: image-store.slidesharecdn.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: mailchi.mp
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.thejournal.ie:443
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: finance.worldnewsoffice.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: off-guardian.org
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: jackpineradicals.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: sarahabed.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 4
+
+Domain: sana.sy
+Frequency in Data: 2
+Frequency in Twitter Posts: 8
+
+Domain: ftsnautodesk.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: www.ibtimes.co.uk
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: propagandaschau.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: truepublica.org.uk
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.france24.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: willyloman.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: apsnynews.tk
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: vid.me
+Frequency in Data: 2
+Frequency in Twitter Posts: 5
+
+Domain: www.purpose.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: geopolitics.co
+Frequency in Data: 2
+Frequency in Twitter Posts: 66
+
+Domain: amnayzh.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: rojname.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: smmsyria.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: en.insidesyriamc.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 3
+
+Domain: syriadirect.org
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: wikispooks.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: en.m.wikipedia.org
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: actualidad.rt.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: willibald66.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: firenewsfeed.com:443
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: arrahmahnews.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: macedoniaonline.eu
+Frequency in Data: 2
+Frequency in Twitter Posts: 4
+
+Domain: revereradionetwork.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: upflow.co
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.moonofalabama.org
+Frequency in Data: 2
+Frequency in Twitter Posts: 110
+
+Domain: www.amazon.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 23
+
+Domain: www.minds.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.spartanjerseys.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 10
+
+Domain: r3publican.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: english.aawsat.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 6
+
+Domain: blacklivesmatter.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 19
+
+Domain: time.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 8
+
+Domain: caityjohnstone.medium.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 3
+
+Domain: robinwestenra.blogspot.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: theregion.org
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: www.abovetopsecret.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 5
+
+Domain: archive.pov.org
+Frequency in Data: 2
+Frequency in Twitter Posts: 4
+
+Domain: www.irishexaminer.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 3
+
+Domain: www.caribflame.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.kompas.tv
+Frequency in Data: 2
+Frequency in Twitter Posts: 4
+
+Domain: myemail.constantcontact.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 25
+
+Domain: www.thurles.info
+Frequency in Data: 2
+Frequency in Twitter Posts: 35
+
+Domain: music.apple.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 9
+
+Domain: www.voltairenet.org
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: ref.gl
+Frequency in Data: 2
+Frequency in Twitter Posts: 11
+
+Domain: ww25.a.bla.es
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: deutsch.rt.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 16
+
+Domain: themillenniumreport.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: world4justice.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: www.3yonel7ds.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: www.thenationalnews.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 2
+
+Domain: urs1798.wordpress.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 1
+
+Domain: ifttt.com
+Frequency in Data: 2
+Frequency in Twitter Posts: 4
+
+Domain: newsteller.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: extrasensoryprecepts.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: deeply.thenewhumanitarian.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 93
+
+Domain: act.thesyriacampaign.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 109
+
+Domain: www.seosem.es
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: gridirongarb.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: www.buzzfeed.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 42
+
+Domain: www.dailystar.com.lb
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: abcnews.go.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 42
+
+Domain: iloapp.nancysix.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: open.spotify.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: www.alligatorarmy.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 17
+
+Domain: bouchardgraccer.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: us4.campaign-archive.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.ronpaulinstitute.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 92
+
+Domain: my.earthlink.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: clasos.com.mx
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.fundmycause.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: lzomedia.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.sharjah24.ae
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: altnews.top
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: www.theonlycolors.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: sinkers.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: lestweforgetuk.tumblr.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: brazil.timesofnews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: noesis2017.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: www.theamericanconservative.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 120
+
+Domain: www.ipsnews.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: www.salon.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 39
+
+Domain: www.foxnews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 80
+
+Domain: www.lasvegasnvblog.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: theintercept.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 93
+
+Domain: drive.google.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.hnvnews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.hispantv.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.riskmap.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 7
+
+Domain: stj-sy.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 10
+
+Domain: destyy.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.metronews.ca
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: hangthebankers.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 21
+
+Domain: www.sinfiltros.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: www.craigmurray.org.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: syria.liveuamap.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 11
+
+Domain: iccabodgruntfuttock.simplesite.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: ronpaulinstitute.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.nationalreview.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: centrodeperiodicos.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.huffingtonpost.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 16
+
+Domain: breakingnewslive.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.legitgov.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.therealrapgame.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: ilerihaber.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.state.gov
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: www.london-fire.gov.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 9
+
+Domain: www.makewarshistory.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: www.espn.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 10
+
+Domain: www.datamun.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.anews.com.tr
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.15minutenews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.konga.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.upi.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 28
+
+Domain: eleftherostypos.gr
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: russianservices.us
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: detajm.pl
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.dierotepille.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.newsatw.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: udog-universe.tumblr.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.redbrickcommunications.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: philanthropost.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.timesofisrael.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 35
+
+Domain: english.kolkata24x7.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: castoropollux.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: ussanews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: uk.timesofnews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.dcclothesline.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 96
+
+Domain: www.thetimes.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: anationofthinkers.info
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: islamexposedblog.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: english.almanar.com.lb
+Frequency in Data: 1
+Frequency in Twitter Posts: 10
+
+Domain: www.antiliberalnews.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 12
+
+Domain: steigan.no
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: www.fow24news.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: uprootedpalestinians.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: www.detroitnews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 24
+
+Domain: kanzleikompa.de
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: data4justice.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.seattletimes.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: it.insideover.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: viralear.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: buzzbry.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.iefimerida.gr
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.whitehelmets.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 129
+
+Domain: sineclavis.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.africa-news.info
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: www.citizenworldnewsreport.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: jinge.se
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.news24.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: peoplesmillion.whitehelmets.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 74
+
+Domain: pastebin.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 23
+
+Domain: www.channel4.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: epeak.in
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.staticmediahub.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: iamjohnsmith1123.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.getrevue.co
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.npostart.nl
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: cultureandpolitics.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: truththeory.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.huffpostbrasil.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: news.sky.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 124
+
+Domain: collegefootball.nbcsports.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 32
+
+Domain: nofrills.seesaa.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 20
+
+Domain: news.v.daum.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: besttopic.in
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: elcomunista.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: floridadiary.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.britishmuseum.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: habibifunkrecords.bandcamp.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: bccrss.club
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: mobile.yahoo.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: usat9.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: t.peq.cc
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: jist.news
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: tschr.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.inewsgr.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.theplaidzebra.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: detroit.cbslocal.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: twitter.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.jocoxfoundation.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: straightlinelogic.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.futuredanger.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.trendolizer.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 47
+
+Domain: www.soynadiepress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: syrianwar1.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: profootballspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.haaretz.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: renematosruiz6663.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.elitedaily.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.wesavesyria.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 12
+
+Domain: www.tribunnews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 8
+
+Domain: janoberg.me
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.philosophers-stone.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: embrasse-mon-clone.tumblr.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: syria360.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.theamericanawakening.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: yallalabarra.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: linkis.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.blazingcatfur.ca
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: 21wire.tv
+Frequency in Data: 1
+Frequency in Twitter Posts: 36
+
+Domain: indicator.gr
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.buzzfeednews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: globalnews.co.id
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: gothamist.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.npr.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 39
+
+Domain: detroitsportsnation.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: www.perfectbrite.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: volksbetrugpunktnet.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: london-informer.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: newsinfo.inquirer.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 19
+
+Domain: webcache.googleusercontent.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.konjunktion.info
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: wesavesyria.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 16
+
+Domain: www.nydailynews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: doc.aljazeera.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.independent.ie
+Frequency in Data: 1
+Frequency in Twitter Posts: 38
+
+Domain: www.atlanticcouncil.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: iknowbro.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: alwaght.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 17
+
+Domain: www.gmanetwork.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: letterboxd.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: furor.tv
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: www.istioforosnews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.atimes.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: www.redbubble.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.panorama.it
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: thecontext.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.hindustantimes.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: www.execpay.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: warincontext.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: ciiradio.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: isportsweb.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.jacobinmag.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: bbcpanoramasavingsyriaschildren.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 7
+
+Domain: amp.twimg.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.abc.es
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.1afsym.tk
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.thescoopradioshow.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.dazeddigital.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.mk.ru
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.refugeesinternational.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 14
+
+Domain: corneey.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 8
+
+Domain: zonerouge.montrealalouettes.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 12
+
+Domain: www.chesterfield.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.reuters.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 33
+
+Domain: acebreakingnews.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.syriasolidaritymovement.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: amp.cnn.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 7
+
+Domain: normanpilon.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: video.nepm.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.dagbladet.no
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.welt.de
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: markoobdam.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.voanews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 22
+
+Domain: citizentruth.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: theeventchronicle.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: voiceofpeopletoday.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.etsy.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: aldorars.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: shadowproof.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.islamtimes.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.scoop.it
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: heavydemon2012.tumblr.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: wildnwoollywordsmith.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.ctvnews.ca
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: documents-dds-ny.un.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: shop.glastonburyfestivals.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: wsj.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.lexpress.fr
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: templates.doteasy.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: journal-neo.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: larepublica.es
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.africanhhb.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 13
+
+Domain: heavy.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: buzzteller.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: rednationrising.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 
+
+Domain: newscdn.newsrep.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.intelligencerpost.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: thewashingtonstandard.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: latestnews7.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: forum.batr.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.thebingbing.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.islamicinvitationturkey.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: www.bitchute.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: kfmradio.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: stafeta.ro
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: newearth.media
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: ww25.humofun.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: littleinfocue.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.bibliotecapleyades.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: thefifthcolumnnews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: syriauntold.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 7
+
+Domain: markcrispinmiller.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: filmmusicreporter.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 10
+
+Domain: www.repubblica.it
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: townhall.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: thezombiemum.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: freedombunker.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: libertarianinstitute.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 
+
+Domain: www.mlive.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 9
+
+Domain: nobelpeaceprize.whitehelmets.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 144
+
+Domain: tmi.me
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: hosted.ap.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: dunia.tempo.co
+Frequency in Data: 1
+Frequency in Twitter Posts: 10
+
+Domain: www.theartofannihilation.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.countrylife.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: www.newstwenty.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: news.cgtn.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 34
+
+Domain: fr.sputniknews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.thefuture.ie
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: gulfnews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: canadiandimension.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: www.enabbaladi.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.rijksoverheid.nl
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: gerritherders.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.gannett-cdn.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: paper.li
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: www.canli-iddaa-siteleri3.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: tcf.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 33
+
+Domain: translate.google.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.arte.tv
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.strategic-culture.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.pelop.gr
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: topsites.gdn
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.whatdotheyknow.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: reports.swedhr.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: srilankaoneislandtwonations.tumblr.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: newsparot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: truckingnews.us
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: actforpeace.rationchallenge.org.au
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.southpunjabnews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: uncut-news.ch
+Frequency in Data: 1
+Frequency in Twitter Posts: 10
+
+Domain: www.nicovideo.jp
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.arrahmah.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: en.armradio.am
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.primewire.ag
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: globalnews.ca
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.rubikon.news
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.platoscave.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.riyadhvision.com.sa
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: indianexpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 10
+
+Domain: usa.timesofnews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: stateofglobe.no
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.gooadv.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.bloomberg.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 42
+
+Domain: watsupeurope.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: welcome-to-pottersville2.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.middleeastmonitor.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 15
+
+Domain: www.jvzoo.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: disobedientmedia.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 7
+
+Domain: jethomme.tumblr.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.newsoneplace.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: news.abs-cbn.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 141
+
+Domain: www.pulse.ng
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.lemonde.fr
+Frequency in Data: 1
+Frequency in Twitter Posts: 15
+
+Domain: www.nakedcapitalism.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.standard.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 7
+
+Domain: news.seehua.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.wired.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 113
+
+Domain: 40yrs.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: wkmi.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.rt.com.convey.pro
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: propagandaschau.files.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.rte.ie
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: traffic.fullcontentrss.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.wired-gov.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: gatherdom.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: malaysiaupdates.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.itv.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 83
+
+Domain: teyit.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.ynetnews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 7
+
+Domain: chroniclesofshame.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.nationalist.ie
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.gridironmemories.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: libya360.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.weekfacts.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.msf.ie
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.pentictonherald.ca
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.gdnonline.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: clashroyalehackscheats.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: po.st
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: noraneco.club
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: houston.citymomsblog.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: e-thessalia.gr
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: abledeplora.dub.io
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: hpub.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: louisproyect.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: myprivacy.dpgmedia.nl
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: viralinusa.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: livingpgh.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: oklahoman.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: de.sputniknews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.google.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.plenglish.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.madata.gr
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: puisina.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.kaos.gr
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.researchgate.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: 00atmen.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: bost.host10gb.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.abc.net.au
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.lansingstatejournal.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: preview.tinyurl.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: wkfr.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: britishfreepress.info
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: rightwingconservativenewsblog.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.ranini.tv
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: sports.yahoo.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: www.thestar.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: yle.fi
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.goodreads.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: rfu.in.ua
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: pantip.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.cityofpgh.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.spreaker.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: whitehelmets.org.w3lookup.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: www.nrk.no
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: flyingpincushion.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: penninerainbows.blog
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.instituteartist.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: aranews.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: 112darkbull.tumblr.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: global-newscast.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: renegadeinc.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: riafan.ru
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: coffeeshop88.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.thesun.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: davidaslindsay.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 9
+
+Domain: blogs.yahoo.co.jp
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: ameblo.jp
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.wvpe.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: qomrah.tv
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: elpais.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 10
+
+Domain: www.thepensivequill.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.freecriticalthinking.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: www.thekeyplay.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: m.huffpost.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.brandonturbeville.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: kristofvanhooymissen.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 
+
+Domain: www.yardbarker.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: themediaexpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: newslive.today
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.intellihub.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: trud.bg
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: worldeventsandthebible.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: www.spiegel.de
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: oslofreedomforum.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 33
+
+Domain: climbing.shopping4all.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: svenska.yle.fi
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.safrica24.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: ilfarosulmondo.it
+Frequency in Data: 1
+Frequency in Twitter Posts: 8
+
+Domain: apob.tumblr.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: estibalizmartinez.es
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: ideasandsociety.ucr.edu
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: english.alaraby.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 8
+
+Domain: www.mo4ch.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: detroitinformer.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.therebel.media
+Frequency in Data: 1
+Frequency in Twitter Posts: 11
+
+Domain: www.bikewisenews.org.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: dexiextrem.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.jawapos.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: mwcnews.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.news.club
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: blackchristiannews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.ukheadlines.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: mydonate.bt.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 8
+
+Domain: propagandaticker.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: politicsofhope.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: anonhq.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.thesleuthjournal.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: bl3raby.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: breaking.iavian.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.millenniumpost.in
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: gailmalone.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 66
+
+Domain: www.themoscowtimes.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: beamthelightbethechange.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: www.arabnewsservice.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: feeds.environmentguru.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: gab.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: video.whyy.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.9news.com.au
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.timesnownews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 17
+
+Domain: enantion.gr
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: redaksiislam.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: kraigekelly.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: ghionjournal.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.vietatoparlare.it
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: searchscot.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.amnesty.org.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.theapricity.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: hargo.co.id
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.therahnuma.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: facttest.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 8
+
+Domain: terrorincorporated.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.aulanews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: pixelsurgery.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 
+
+Domain: mavenroundtable.io
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: fbreporter.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.justgiving.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: playerpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: fellowshipoftheminds.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.ground-zero.biz
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: hk.on.cc
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.tipperarypeace.ie
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: thedailyheadline.news
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: jenkers.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: el32.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 7
+
+Domain: barbaramckenzie.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.sacouncil.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.anonews.co
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.facebook.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.lawyersgunsmoneyblog.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: tllt.in
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.filmaffinity.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.dedalusprod.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: t.co
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.iraqinews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.darkpolitricks.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: uk.newswaver.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: creepingsharia.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 10
+
+Domain: www.broadwayworld.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: tagthebird.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.newyorkminutemag.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.pscp.tv
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: 12160.info
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.beehive.govt.nz
+Frequency in Data: 1
+Frequency in Twitter Posts: 56
+
+Domain: www.ebay.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: thesyriacampaign.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: iroon.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: one-dollar-hosting.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.patreon.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.ronpaulamerica.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 9
+
+Domain: www.easybranches.biz
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: owata-anntena.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: france.timesofnews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: parstoday.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: over.marokko.nl
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: travelwirenews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.lawfareblog.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.reacttonews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: inneroceanrecords.bandcamp.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.latimes.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.lapresse.it
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.sawaus.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.chicagotribune.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.change.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: 1miami.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.newstalk.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 10
+
+Domain: pulsemedia.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 11
+
+Domain: www.manchestereveningnews.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.newstwe.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: www.gulf-times.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 3
+
+Domain: www.raptureforums.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: dimpenews.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: imagetwist.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.presstv.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 14
+
+Domain: www.ukcolumn.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.quickloans.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 16
+
+Domain: wendyrwyatt.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: leedsbuddhistcentre.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: lisaandrews1968.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: blog.christianebuddy.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: us.newswaver.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: themiamimetropolis.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.opendemocracy.net
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: duckduckgo.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: arabtv6.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: reclaimourrepublic.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: pbs.twimg.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: sirioandaluz.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: tr.etilaf.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: edition.cnn.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.thepavlovictoday.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.muckety.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.alaturka.us
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.csmonitor.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 45
+
+Domain: www.newsnowgr.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: en1kurdipost.wordpress.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: mronline.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: www.strike-the-root.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: creedpolitico.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.duduradio.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.antinews.in
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.bournemouthecho.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: michiganstate.rivals.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: buzztap.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: tw.appledaily.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: www.torontopubliclibrary.ca
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.globalcitizen.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: schillerinstitute.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 4
+
+Domain: syrianobserver.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 6
+
+Domain: badblue.bitnamiapp.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: bleacherreport.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: hrms.news
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.eventbrite.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 9
+
+Domain: www.worldhumanitarianday.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: fractt.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: topgnews.blogspot.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 2
+
+Domain: wismaberita.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.rustyradiator.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.manxradio.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 5
+
+Domain: www.engportals.org
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: ww3.betrendsetter.today
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.lostevent.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: reportuk.me
+Frequency in Data: 1
+Frequency in Twitter Posts: 24
+
+Domain: www.bestnewswebsites.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.politwoops.eu
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.politwoops.co.uk
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: malaysiandigest.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: salespree.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 1
+
+Domain: www.unz.com
+Frequency in Data: 1
+Frequency in Twitter Posts: 514
+

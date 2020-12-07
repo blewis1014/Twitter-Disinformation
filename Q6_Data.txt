@@ -1,0 +1,24 @@
+Top 20 most common terms out of 2908 Tweets
+
+('worldtruthtv', 163)
+('election', 161)
+('trump', 141)
+('covid19', 135)
+('us', 132)
+('state', 128)
+('covid', 124)
+('cia', 123)
+('new', 119)
+('people', 113)
+('fraud', 111)
+('news', 101)
+('update', 97)
+('war', 94)
+('breitbartnews', 93)
+('uk', 90)
+('dominion', 87)
+('says', 87)
+('situation', 85)
+('vaccine', 84)
+
+Number of Tweets featuring a common term: 1468

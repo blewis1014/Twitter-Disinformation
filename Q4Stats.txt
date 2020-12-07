@@ -1,0 +1,55 @@
+Top 5 Shared Domains in Set D1_Q3:
+
+Domain: infowars.com
+Total Tweet Count from Domain in Set: 1972
+Tweet Count from D1: 1741
+Tweet Count from Q3: 231
+
+Domain: beforeitsnews.com
+Total Tweet Count from Domain in Set: 649
+Tweet Count from D1: 580
+Tweet Count from Q3: 69
+
+Domain: dcclothesline.com
+Total Tweet Count from Domain in Set: 435
+Tweet Count from D1: 233
+Tweet Count from Q3: 202
+
+Domain: activistpost.com
+Total Tweet Count from Domain in Set: 379
+Tweet Count from D1: 175
+Tweet Count from Q3: 204
+
+Domain: 21stcenturywire.com
+Total Tweet Count from Domain in Set: 269
+Tweet Count from D1: 62
+Tweet Count from Q3: 207
+
+----------------------------------------
+
+Top 5 Shared Domains in Set D1_Q3:
+
+Domain: gellerreport.com
+Total Tweet Count from Domain in Set: 438
+Tweet Count from D2: 234
+Tweet Count from Q3: 204
+
+Domain: dcclothesline.com
+Total Tweet Count from Domain in Set: 298
+Tweet Count from D2: 96
+Tweet Count from Q3: 202
+
+Domain: activistpost.com
+Total Tweet Count from Domain in Set: 287
+Tweet Count from D2: 83
+Tweet Count from Q3: 204
+
+Domain: collective-evolution.com
+Total Tweet Count from Domain in Set: 255
+Tweet Count from D2: 50
+Tweet Count from Q3: 205
+
+Domain: ronpaulinstitute.org
+Total Tweet Count from Domain in Set: 250
+Tweet Count from D2: 92
+Tweet Count from Q3: 158

@@ -1,0 +1,5 @@
+URIs with 200 response: 1186
+URIs with 404 response: 493
+URIs redirected to different URIs: 793
+
+Unique Domains: 812
